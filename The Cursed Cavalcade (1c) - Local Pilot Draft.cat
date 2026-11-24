@@ -1,0 +1,2024 @@
+<?xml version='1.0' encoding='utf-8'?>
+<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" id="cbfc-2c9f-669b-511a" name="The Cursed Cavalcade (1c) - Local Pilot Draft" revision="4" battleScribeVersion="2.03" library="false" gameSystemId="9481a749-7900-614b-1695-bdc2899069c1" gameSystemRevision="16" type="catalogue">
+  <sharedSelectionEntries>
+    <selectionEntry id="531d-9497-c4c6-5b3d" name="Sun King Mask" page="0" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint id="3e67-bcea-b93c-565e" type="max" field="selections" scope="force" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+      </constraints>
+      <rules>
+        <rule id="6699-e93c-6354-56dd" name="Sun King Mask" hidden="false">
+          <description>Free when assigned to a hero during warband creation. After creation, the price is 70 GC. The same mask may be assigned only once per warband. This uniqueness is documented here; New Recruit enforcement is not verified.
+
+The warrior Wearing the Sun King Mask cannot be Knocked Down or Stunned, nor by effects or due to a result on the Injury Table.
+
+Availability: Aristocrat only.</description>
+        </rule>
+      </rules>
+      <costs>
+        <cost name=" gc" typeId="points" value="0" />
+        <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+        <cost name="Rarity" typeId="rarity" value="0" />
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="71e3-ca5b-68f5-5ba7" name="Silver Death Mask" page="0" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint id="482e-0f36-36db-557b" type="max" field="selections" scope="force" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+      </constraints>
+      <rules>
+        <rule id="c36f-2890-fa24-53d0" name="Silver Death Mask" hidden="false">
+          <description>Free when assigned to a hero during warband creation. After creation, the price is 50 GC. The same mask may be assigned only once per warband. This uniqueness is documented here; New Recruit enforcement is not verified.
+
+If the Hero wearing the Silver Mask is taken Out of Action, he may reroll any result on a Serious Injury chart. He must accept the second result even if it is worse than the previous roll.</description>
+        </rule>
+      </rules>
+      <costs>
+        <cost name=" gc" typeId="points" value="0" />
+        <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+        <cost name="Rarity" typeId="rarity" value="0" />
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2d06-cb8e-220b-5c6c" name="Fish Head Mask" page="0" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint id="970d-f28f-9019-54fa" type="max" field="selections" scope="force" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+      </constraints>
+      <rules>
+        <rule id="caff-7c22-329d-51df" name="Fish Head Mask" hidden="false">
+          <description>Free when assigned to a hero during warband creation. After creation, the price is 60 GC. The same mask may be assigned only once per warband. This uniqueness is documented here; New Recruit enforcement is not verified.
+
+Every time the wearer of the Fish Head Mask takes an opponent Out of Action he gains a wound back (if he lost any) or gain an additional wound up to a maximum of 5. This additional wound lasts until the end of the battle.</description>
+        </rule>
+      </rules>
+      <costs>
+        <cost name=" gc" typeId="points" value="0" />
+        <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+        <cost name="Rarity" typeId="rarity" value="0" />
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9d1a-5abb-676a-57d5" name="Faceless Mask" page="0" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint id="1274-444e-27b5-53d9" type="max" field="selections" scope="force" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+      </constraints>
+      <rules>
+        <rule id="ecb5-0028-0f66-504b" name="Faceless Mask" hidden="false">
+          <description>Free when assigned to a hero during warband creation. After creation, the price is 30 GC. The same mask may be assigned only once per warband. This uniqueness is documented here; New Recruit enforcement is not verified.
+
+The warrior wearing the Faceless Mask may stop one model from Intercepting his charge once per game. Models immune to psychology such as Undead and Flagellants are unaffected by this.</description>
+        </rule>
+      </rules>
+      <costs>
+        <cost name=" gc" typeId="points" value="0" />
+        <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+        <cost name="Rarity" typeId="rarity" value="0" />
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5e76-625e-99a7-53d3" name="Plague Doctor Mask" page="0" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint id="16e1-c0d1-9887-5d68" type="max" field="selections" scope="force" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+      </constraints>
+      <rules>
+        <rule id="c031-0e13-caa9-557a" name="Plague Doctor Mask" hidden="false">
+          <description>Free when assigned to a hero during warband creation. After creation, the price is 45 GC. The same mask may be assigned only once per warband. This uniqueness is documented here; New Recruit enforcement is not verified.
+
+Once per game, in the shooting phase, the wearer may unleash the black cloud from within the mask, burning those not part of the Cavalcade. The longer the power is held within the mask, the more potent its effect will be. On the first turn it hits any enemy model within 3" of the wearer at Strength 1, and the distance and the Strength of the effect increases by 1 in the beginning of each turn of the Cavalcade, up to range of 7" and Strength 5. Roll to hit (with no penalties for range or cover) and to wound as usual. This effect cannot cause critical hits.
+
+Availability: Twisted Scholar only.</description>
+        </rule>
+      </rules>
+      <costs>
+        <cost name=" gc" typeId="points" value="0" />
+        <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+        <cost name="Rarity" typeId="rarity" value="0" />
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5300-ad2c-8a0a-5868" name="Evil Jester Mask" page="0" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint id="1fb7-a98d-7a83-523a" type="max" field="selections" scope="force" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+      </constraints>
+      <rules>
+        <rule id="7f69-d027-2ee2-5e80" name="Evil Jester Mask" hidden="false">
+          <description>Free when assigned to a hero during warband creation. After creation, the price is 70 GC. The same mask may be assigned only once per warband. This uniqueness is documented here; New Recruit enforcement is not verified.
+
+At the beginning of the battle roll a D6: on a roll of 1 the warrior is subject to Stupidity for the duration of the battle. On a roll of 2-5, the warrior hates all the enemies during the battle. On a roll of 6, the warrior is affected by Frenzy.</description>
+        </rule>
+      </rules>
+      <costs>
+        <cost name=" gc" typeId="points" value="0" />
+        <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+        <cost name="Rarity" typeId="rarity" value="0" />
+      </costs>
+    </selectionEntry>
+  </sharedSelectionEntries>
+  <selectionEntries>
+    <selectionEntry id="e3e0-c955-3812-5ae9" name="Aristocrat" page="0" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint id="049b-6087-2e3e-51f3" type="min" field="selections" scope="roster" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+        <constraint id="1f6b-7fa5-dbcc-5d78" type="max" field="selections" scope="roster" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+      </constraints>
+      <profiles>
+        <profile id="0783-8646-c2f8-5899" name="Aristocrat" page="0" hidden="false" typeId="e1beaa44-e54d-dd6b-d1f2-446b333c9bb9" typeName="Model">
+          <characteristics>
+            <characteristic name="M" typeId="2a0bcc4c-8266-418f-13d6-a6b44def5e92">4</characteristic>
+            <characteristic name="WS" typeId="d5aca8ba-0204-b324-b976-c2b536e09924">4</characteristic>
+            <characteristic name="BS" typeId="5b4d181b-23ae-5ed7-9262-c1d2f79246a8">4</characteristic>
+            <characteristic name="S" typeId="7f1f0a4d-68dc-b0df-5703-c4d0d91a93b9">3</characteristic>
+            <characteristic name="T" typeId="54f4796b-dedb-c296-8b1a-ff7f8043293a">3</characteristic>
+            <characteristic name="W" typeId="3172c8dc-ebe4-0c40-72ab-8fd0076b9442">1</characteristic>
+            <characteristic name="I" typeId="a6fd52b0-be0a-655e-6314-87b392c9c90e">4</characteristic>
+            <characteristic name="A" typeId="bf393c37-9d10-fc85-c147-62b1c01a89fe">1</characteristic>
+            <characteristic name="LD" typeId="e234eaea-a02a-2fb7-3e1f-605392aabb89">8</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule id="4226-4c94-4516-5a32" name="Leader" hidden="false">
+          <description>Any warrior of the Cavalcade Warband within 6" of the Aristocrat may use his Leadership value when taking Leadership tests.</description>
+        </rule>
+        <rule id="21f2-3733-8e80-53a7" name="Expert Horseman" hidden="false">
+          <description>the Aristocrat has the Ride (Nightmare) skill.</description>
+        </rule>
+      </rules>
+      <categoryLinks>
+        <categoryLink id="a895-d65b-9d94-53a7" name="Heroes" hidden="false" targetId="a0fce0bc-02e0-a064-7a39-5b97ff8a9c94" primary="true" />
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="f6d5-ce30-7289-5444" name="Equipment List" page="0" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint id="e3c6-451c-8309-53a7" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+          </constraints>
+          <costs>
+            <cost name=" gc" typeId="points" value="0" />
+            <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+            <cost name="Rarity" typeId="rarity" value="0" />
+          </costs>
+          <selectionEntryGroups>
+            <selectionEntryGroup id="8821-4f9c-3725-5e1e" name="Hand-to-hand Weapons" hidden="false" sortIndex="1" collapsible="true">
+              <entryLinks>
+                <entryLink id="0808-4a79-e7b0-57b0" name="Free Dagger (1st)" hidden="false" collective="false" import="true" targetId="0d0b-ed37-d8b0-4cbf" type="selectionEntry">
+                  <constraints>
+                    <constraint id="2bf2-5605-32db-5909" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="fcf5-9311-3940-5466" name="Dagger" hidden="false" collective="false" import="true" targetId="64e0-0bb6-542b-4beb" type="selectionEntry" />
+                <entryLink id="8042-d842-02cc-5ff8" name="Sword" hidden="false" collective="false" import="true" targetId="34fd-d6a3-50ee-ee06" type="selectionEntry" />
+                <entryLink id="9f70-3854-88d6-5b95" name="Hammer" hidden="false" collective="false" import="true" targetId="cfcc-39fd-aeb4-876a" type="selectionEntry" />
+                <entryLink id="43d7-84fd-f15d-54e7" name="Double-Handed Weapon" hidden="false" collective="false" import="true" targetId="a0a1-b311-e3aa-6c3b" type="selectionEntry" />
+                <entryLink id="88df-ebb8-a874-5177" name="Lance" hidden="false" collective="false" import="true" targetId="5223-13a6-14ec-f372" type="selectionEntry">
+                  <costs>
+                    <cost name=" gc" typeId="points" value="20" />
+                  </costs>
+                </entryLink>
+              </entryLinks>
+              <selectionEntries>
+                <selectionEntry id="0763-d3d2-e2d6-5f26" name="Misericordia" page="0" hidden="false" collective="false" import="true" type="upgrade">
+                  <rules>
+                    <rule id="10ce-2baf-8b3f-5751" name="Range" hidden="false">
+                      <description>Close combat</description>
+                    </rule>
+                    <rule id="c071-e000-e0ca-5df1" name="Strength" hidden="false">
+                      <description>As user</description>
+                    </rule>
+                    <rule id="0f6c-7e1e-3351-5fa1" name="Special Rules" hidden="false">
+                      <description>Coup de Grace</description>
+                    </rule>
+                    <rule id="a0d9-288d-028a-5db2" name="Coup de Grace" hidden="false">
+                      <description>As the warriors of the Cursed Cavalcade are experts at hitting the vital spots of their opponents, and the Misericordia can find the smallest chink in even the best suit of armor. Often the wielders choose a spot that causes indescribable pain but does not kill the target outright so he can be dragged before the Throne of Worms. When attacking knocked down opponents, Misericordia bypasses all armor saves.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="5" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="cdef-5946-d8b7-5b08" name="Boar Spear" page="0" hidden="false" collective="false" import="true" type="upgrade">
+                  <rules>
+                    <rule id="1095-c616-6ea0-5b80" name="Range" hidden="false">
+                      <description>Close combat</description>
+                    </rule>
+                    <rule id="9034-257f-768b-5656" name="Strength" hidden="false">
+                      <description>As user +1</description>
+                    </rule>
+                    <rule id="4fb0-09d8-2480-54ab" name="Special Rules" hidden="false">
+                      <description>Strike First, Cavalry Bonus, Cross Guard, Unwieldy</description>
+                    </rule>
+                    <rule id="1aea-9ed1-8f95-5cc6" name="Strike First" hidden="false">
+                      <description>A warrior with a Boar Spear strikes first even when charged, because the long shaft allows him to thrust the oncoming enemies before they have a chance to hit him. This only applies during the first turn of hand-to-hand combat.</description>
+                    </rule>
+                    <rule id="82dc-3122-6710-5ffa" name="Cavalry Bonus" hidden="false">
+                      <description>If used by a mounted warrior the Boar Spear gives the wielder a +1 Strength bonus during the turn when he charges.</description>
+                    </rule>
+                    <rule id="9a46-1e3c-2ece-5187" name="Cross Guard" hidden="false">
+                      <description>The Boar Spear has been designed to stop the charge of an enraged boar on its tracks. When charged it reduces the number of attacks of the first assailant into the close combat by 1, (down to minimum of 1), Attacks from second hand weapon or from any other source except base stats are not affected.</description>
+                    </rule>
+                    <rule id="ed3a-2886-bfbe-50ed" name="Unwieldy" hidden="false">
+                      <description>a warrior with a Boar Spear may only use a shield or a buckler in his other hand. He may not use a second weapon.</description>
+                    </rule>
+                    <rule id="f08b-dd17-d7f6-5d29" name="Source note" hidden="false">
+                      <description>The warband equipment list and Mordheimer JSON say 30 GC; the detailed item section says 20 GC. This draft follows the list. Confirm before release.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="30" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+              <constraints>
+                <constraint id="1054-9f03-7bae-5121" type="max" field="selections" scope="parent" value="2" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+              </constraints>
+              <modifiers>
+                <modifier type="set" value="3" field="1054-9f03-7bae-5121">
+                  <conditions>
+                    <condition type="equalTo" value="1" field="selections" scope="parent" childId="0808-4a79-e7b0-57b0" shared="true" percentValue="false" includeChildSelections="false" includeChildForces="false" />
+                  </conditions>
+                </modifier>
+              </modifiers>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="ef33-3652-1f5d-5895" name="Missile Weapons" hidden="false" sortIndex="2" collapsible="true">
+              <entryLinks>
+                <entryLink id="d95d-e1eb-365e-5f30" name="Long Bow" hidden="false" collective="false" import="true" targetId="afa2-2d5c-54dd-d435" type="selectionEntry">
+                  <constraints>
+                    <constraint id="1f52-0c59-c845-590b" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="71ba-47a7-e84e-51d8" name="Duelling Pistol" hidden="false" collective="false" import="true" targetId="da24-6a7f-725b-5bcb" type="selectionEntry">
+                  <constraints>
+                    <constraint id="77c3-3348-ee74-5d37" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="25" />
+                  </costs>
+                </entryLink>
+                <entryLink id="b5f9-3324-406a-531a" name="Brace of Duelling Pistols" hidden="false" collective="false" import="true" targetId="da24-6a7f-725b-5bcd" type="selectionEntry">
+                  <constraints>
+                    <constraint id="b17d-39a6-4395-5fd0" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="50" />
+                  </costs>
+                </entryLink>
+                <entryLink id="3010-820c-26df-55e7" name="Blunderbuss" hidden="false" collective="false" import="true" targetId="4386-7400-9146-1dee" type="selectionEntry">
+                  <constraints>
+                    <constraint id="45ba-6d93-b731-5cf5" type="max" field="selections" scope="force" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                    <constraint id="e45d-f992-b924-540f" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+              </entryLinks>
+              <selectionEntries>
+                <selectionEntry id="443b-e4c1-de33-580e" name="Hunting Rifle" page="0" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint id="61c5-8a07-fb27-5e59" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                  <rules>
+                    <rule id="66e8-a8b4-faa8-5a7c" name="Source note" hidden="false">
+                      <description>No matching Hunting Rifle entry was found in the current shared data catalogue. The 200 GC list price is shown, but the weapon profile/mechanics need a source check.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="200" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="d999-aa24-c39f-5db8" name="Bird Of Prey" page="0" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint id="076c-c0aa-2a45-52f4" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                  <rules>
+                    <rule id="b0ac-1eff-c4d2-52fd" name="Bird of Prey" hidden="false">
+                      <description>The Bird of Prey can be used in the Shooting Phase exactly like a Missile weapon with the following exceptions: it has a range of 18", does not need line of sight (but cannot be used against hidden targets) and ignores penalties for moving, long range and cover. Use the BS of its owner to determine if it hits. If successful, the attack causes a Strength 4 hit.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="30" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+              <constraints>
+                <constraint id="327b-7731-fe07-5909" type="max" field="selections" scope="parent" value="2" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+              </constraints>
+              <modifiers>
+                <modifier id="6dd7-1660-5b0b-55ee" type="set" value="0" field="b17d-39a6-4395-5fd0">
+                  <conditions>
+                    <condition type="equalTo" value="1" field="selections" scope="parent" childId="71ba-47a7-e84e-51d8" shared="true" percentValue="false" includeChildSelections="false" includeChildForces="false" />
+                  </conditions>
+                </modifier>
+                <modifier id="4a5e-d52e-f604-5c5b" type="set" value="0" field="77c3-3348-ee74-5d37">
+                  <conditions>
+                    <condition type="equalTo" value="1" field="selections" scope="parent" childId="b5f9-3324-406a-531a" shared="true" percentValue="false" includeChildSelections="false" includeChildForces="false" />
+                  </conditions>
+                </modifier>
+              </modifiers>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="41d1-b91a-f863-5bf2" name="Armour" hidden="false" sortIndex="3" collapsible="true">
+              <entryLinks>
+                <entryLink id="7c95-9c65-c5b4-5cab" name="Light Armour" hidden="false" collective="false" import="true" targetId="3d2a-426a-c350-2a03" type="selectionEntry">
+                  <constraints>
+                    <constraint id="9aec-ef24-c51e-5440" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="ef8c-3637-e598-5e54" name="Heavy Armour" hidden="false" collective="false" import="true" targetId="4e34-bbc5-c7ef-6bd6" type="selectionEntry">
+                  <constraints>
+                    <constraint id="7377-5d24-2312-51d3" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="c379-7635-bd56-5b33" name="Shield" hidden="false" collective="false" import="true" targetId="74fb-cc90-1361-df26" type="selectionEntry">
+                  <constraints>
+                    <constraint id="436a-ff1c-edac-5e17" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="06f2-4194-9a7b-5231" name="Buckler" hidden="false" collective="false" import="true" targetId="0871-44c2-f0f0-c27a" type="selectionEntry">
+                  <constraints>
+                    <constraint id="0a7e-a436-98c9-5fcd" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="69a2-57c8-e533-514e" name="Helmet" hidden="false" collective="false" import="true" targetId="d0e5-ca89-5f0d-f5d2" type="selectionEntry">
+                  <constraints>
+                    <constraint id="59e0-29df-bd5a-5965" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+              </entryLinks>
+              <selectionEntries>
+                <selectionEntry id="1f0d-ea6a-cf77-51a6" name="Cathayan Quilted Silk Armour" page="0" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint id="15d2-6d52-3807-54b6" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                  <rules>
+                    <rule id="8737-abed-466d-506e" name="Cathayan Quilted Silk Armour" hidden="false">
+                      <description>The Silk Armour adds +1 to the armour saves against any type of attack. It can be combined with any other type of armour.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="15" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+              <modifiers>
+                <modifier id="ef0c-6a7d-0797-54ff" type="set" value="0" field="9aec-ef24-c51e-5440">
+                  <conditions>
+                    <condition type="equalTo" value="1" field="selections" scope="parent" childId="ef8c-3637-e598-5e54" shared="true" percentValue="false" includeChildSelections="false" includeChildForces="false" />
+                  </conditions>
+                </modifier>
+                <modifier id="d077-7765-6ff4-5eec" type="set" value="0" field="7377-5d24-2312-51d3">
+                  <conditions>
+                    <condition type="equalTo" value="1" field="selections" scope="parent" childId="7c95-9c65-c5b4-5cab" shared="true" percentValue="false" includeChildSelections="false" includeChildForces="false" />
+                  </conditions>
+                </modifier>
+              </modifiers>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="046d-ce56-349d-54b3" name="Miscellaneous" hidden="false" sortIndex="4" collapsible="true">
+              <entryLinks>
+                <entryLink id="8ac6-da77-5f69-5a0c" name="Superior Blackpowder" hidden="false" collective="false" import="true" targetId="332b-3337-b827-2014" type="selectionEntry">
+                  <constraints>
+                    <constraint id="1d67-8cba-08c8-527a" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+              </entryLinks>
+              <selectionEntries>
+                <selectionEntry id="ec65-cdaa-bee4-5f08" name="Nightmare" page="0" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint id="1c07-ece2-bb9f-538b" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                  <profiles>
+                    <profile id="311e-a5ae-5455-54af" name="Nightmare" page="0" hidden="false" typeId="e1beaa44-e54d-dd6b-d1f2-446b333c9bb9" typeName="Model">
+                      <characteristics>
+                        <characteristic name="M" typeId="2a0bcc4c-8266-418f-13d6-a6b44def5e92">8</characteristic>
+                        <characteristic name="WS" typeId="d5aca8ba-0204-b324-b976-c2b536e09924">2</characteristic>
+                        <characteristic name="BS" typeId="5b4d181b-23ae-5ed7-9262-c1d2f79246a8">0</characteristic>
+                        <characteristic name="S" typeId="7f1f0a4d-68dc-b0df-5703-c4d0d91a93b9">3</characteristic>
+                        <characteristic name="T" typeId="54f4796b-dedb-c296-8b1a-ff7f8043293a">3</characteristic>
+                        <characteristic name="W" typeId="3172c8dc-ebe4-0c40-72ab-8fd0076b9442">1</characteristic>
+                        <characteristic name="I" typeId="a6fd52b0-be0a-655e-6314-87b392c9c90e">2</characteristic>
+                        <characteristic name="A" typeId="bf393c37-9d10-fc85-c147-62b1c01a89fe">1</characteristic>
+                        <characteristic name="LD" typeId="e234eaea-a02a-2fb7-3e1f-605392aabb89">5</characteristic>
+                      </characteristics>
+                    </profile>
+                  </profiles>
+                  <rules>
+                    <rule id="c3b9-64b6-2790-5cbc" name="Special Rules" hidden="false">
+                      <description>May Not Run, Immune to Poison, Immune to psychology</description>
+                    </rule>
+                    <rule id="38cf-a7d8-d5b4-540f" name="May Not Run" hidden="false">
+                      <description>As an Undead creature, a Nightmare may not run, but may charge as normal.</description>
+                    </rule>
+                    <rule id="cb49-a7f1-92de-5adb" name="Immune to Poison" hidden="false">
+                      <description>Nightmares are not affected by poison.</description>
+                    </rule>
+                    <rule id="4174-6e24-b3c3-5427" name="Immune to psychology" hidden="false">
+                      <description>As an Undead creature, Nightmares are immune to psychology, never have to take Leadership tests, and will always stand still if left leaderless. However, if the rider suffers a wound, he must roll on the Whoa Boy! table as normal</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="95" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="ee05-e5ed-0685-5dc9" name="Banner of the Noble House" page="0" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint id="b7c6-60bd-1e82-5dfe" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                  <rules>
+                    <rule id="df39-c6cb-a0f6-54d0" name="Banner of the Noble House" hidden="false">
+                      <description>The bearer gains +1 Leadership, to a maximum of 10. If the bearer is not knocked down, stunned or fleeing, friendly models within 12 inches may reroll failed All Alone tests. The bearer must use one hand to carry the banner and cannot carry a shield, buckler, double-handed weapon or off-hand weapon in combat.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="25" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+        <selectionEntry id="787f-b1e4-4f6e-5f4c" name="Special Mask (free at warband creation)" page="0" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint id="9c27-687a-9117-5b3e" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+          </constraints>
+          <costs>
+            <cost name=" gc" typeId="points" value="0" />
+            <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+            <cost name="Rarity" typeId="rarity" value="0" />
+          </costs>
+          <selectionEntryGroups>
+            <selectionEntryGroup id="be67-e9ae-261f-5ac8" name="Mask" hidden="false" sortIndex="1" collapsible="false">
+              <entryLinks>
+                <entryLink id="0c8c-5432-ce34-585b" name="Sun King Mask (Aristocrat only)" hidden="false" collective="false" import="true" targetId="531d-9497-c4c6-5b3d" type="selectionEntry" sortIndex="1" />
+                <entryLink id="85c8-ebc2-8c99-5e34" name="Silver Death Mask" hidden="false" collective="false" import="true" targetId="71e3-ca5b-68f5-5ba7" type="selectionEntry" sortIndex="2" />
+                <entryLink id="e658-7c8e-0aed-5690" name="Fish Head Mask" hidden="false" collective="false" import="true" targetId="2d06-cb8e-220b-5c6c" type="selectionEntry" sortIndex="3" />
+                <entryLink id="0d9e-196b-7521-5467" name="Faceless Mask" hidden="false" collective="false" import="true" targetId="9d1a-5abb-676a-57d5" type="selectionEntry" sortIndex="4" />
+                <entryLink id="4a03-e945-901f-5c7d" name="Evil Jester Mask" hidden="false" collective="false" import="true" targetId="5300-ad2c-8a0a-5868" type="selectionEntry" sortIndex="5" />
+              </entryLinks>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+      </selectionEntries>
+      <entryLinks>
+        <entryLink id="5548-88ef-1747-5556" name="Experience" hidden="false" collective="false" import="true" targetId="d769-0d85-e810-df60" type="selectionEntry">
+          <constraints>
+            <constraint id="95e1-50c5-7565-53ed" type="min" field="selections" scope="parent" value="20" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+          </constraints>
+        </entryLink>
+        <entryLink id="6744-4c0b-9312-502e" name="Characteristic Increases" hidden="false" collective="false" import="true" targetId="7879-46ac-5598-aa00" type="selectionEntryGroup" />
+        <entryLink id="2073-5aa8-4cd3-54c7" name="Serious Injuries" hidden="false" collective="false" import="true" targetId="313b-a816-0a89-926c" type="selectionEntryGroup" />
+      </entryLinks>
+      <costs>
+        <cost name=" gc" typeId="points" value="70" />
+        <cost name=" Warband Rating" typeId="wb-rating" value="5" />
+        <cost name="Rarity" typeId="rarity" value="0" />
+      </costs>
+      <selectionEntryGroups>
+        <selectionEntryGroup id="81ad-5508-4f24-5f4a" name="Skills" hidden="false" sortIndex="20" collapsible="true">
+          <entryLinks>
+            <entryLink id="a461-a22d-ff10-5d65" name="Combat Skills" hidden="false" collective="false" import="true" targetId="ee2c-89e3-489b-d0cb" type="selectionEntryGroup" sortIndex="1" />
+            <entryLink id="0e74-9c6d-03a2-5b78" name="Shooting Skills" hidden="false" collective="false" import="true" targetId="0073-d2d6-15c0-45b1" type="selectionEntryGroup" sortIndex="2" />
+            <entryLink id="02cd-9123-55a4-5895" name="Academic Skills" hidden="false" collective="false" import="true" targetId="df9d-8724-d362-9d7c" type="selectionEntryGroup" sortIndex="3" />
+            <entryLink id="9c16-8410-de6f-5287" name="Speed Skills" hidden="false" collective="false" import="true" targetId="e134-0fdf-67a2-4684" type="selectionEntryGroup" sortIndex="4" />
+          </entryLinks>
+          <selectionEntryGroups>
+            <selectionEntryGroup id="5bcd-0550-cb59-595f" name="Cavalcade Special Skills" hidden="false" sortIndex="5" collapsible="true">
+              <selectionEntries>
+                <selectionEntry id="701b-bc4d-f176-5c9b" name="Noblesse obliges" page="0" hidden="false" collective="false" import="true" type="upgrade" sortIndex="1">
+                  <rules>
+                    <rule id="9bb8-0153-0fb9-583a" name="Noblesse obliges" hidden="false">
+                      <description>The warrior feels utterly superior to his opponents, with long lineage and prestige to look down upon his common enemies, seen as nothing more than cattle to be slaughtered.
+
+The Warrior is immune to fear and can stomp opponents who are knocked down with is iron-shod boots. This gives them additional attack against Knocked down opponents at their own Strength.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="0" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="028a-4d1a-d8c2-501d" name="Torturer" page="0" hidden="false" collective="false" import="true" type="upgrade" sortIndex="2">
+                  <rules>
+                    <rule id="db37-50d1-6406-5938" name="Torturer" hidden="false">
+                      <description>Having learned the craft of torture in the Ritual of the Comet, the warrior knows how to inflict maximum pain on the body and uses it in a sadistic and cruel way in combat.
+
+Any model successfully wounded (and not saved) in close combat by this Hero loses 1 point of Strength permanently for the duration of the battle as the pain from the wound causes agony. The effect is accumulative and can reduce the Strength of the target to a minimum of 1. The Undead are immune to this effect.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="0" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="6634-e3ae-8d75-5dbc" name="Duelist" page="0" hidden="false" collective="false" import="true" type="upgrade" sortIndex="3">
+                  <rules>
+                    <rule id="2feb-b355-f7f4-52b8" name="Duelist" hidden="false">
+                      <description>The warrior is an expert in hand-to-hand combat method of the Imperial duelist, aristocrats famed for their skill in single combat.
+
+At the end of each Close Combat phase, the Duelist can force any non-large opponent he is fighting one-on-one to pass a Strength test or be pushed 2" in any direction choosen by the Duelist. If this brings the target in contact with another model, both suffer an automatic Strength 2 hit. If this pushes the opponent off from a high place, then he falls and takes damage as normal. The duelist stays on the elevated area.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="0" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+    </selectionEntry>
+    <selectionEntry id="6c16-320b-6403-54d6" name="Companion" page="0" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint id="0933-538a-91d6-53a1" type="min" field="selections" scope="roster" value="0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+        <constraint id="ea05-7e9d-e6f1-56e3" type="max" field="selections" scope="roster" value="2" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+      </constraints>
+      <profiles>
+        <profile id="6444-23f3-2ff5-5e6c" name="Companion" page="0" hidden="false" typeId="e1beaa44-e54d-dd6b-d1f2-446b333c9bb9" typeName="Model">
+          <characteristics>
+            <characteristic name="M" typeId="2a0bcc4c-8266-418f-13d6-a6b44def5e92">4</characteristic>
+            <characteristic name="WS" typeId="d5aca8ba-0204-b324-b976-c2b536e09924">4</characteristic>
+            <characteristic name="BS" typeId="5b4d181b-23ae-5ed7-9262-c1d2f79246a8">4</characteristic>
+            <characteristic name="S" typeId="7f1f0a4d-68dc-b0df-5703-c4d0d91a93b9">3</characteristic>
+            <characteristic name="T" typeId="54f4796b-dedb-c296-8b1a-ff7f8043293a">3</characteristic>
+            <characteristic name="W" typeId="3172c8dc-ebe4-0c40-72ab-8fd0076b9442">1</characteristic>
+            <characteristic name="I" typeId="a6fd52b0-be0a-655e-6314-87b392c9c90e">4</characteristic>
+            <characteristic name="A" typeId="bf393c37-9d10-fc85-c147-62b1c01a89fe">1</characteristic>
+            <characteristic name="LD" typeId="e234eaea-a02a-2fb7-3e1f-605392aabb89">7</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule id="1f4a-ad12-d57d-572b" name="Expert Swordsman" hidden="false">
+          <description>As imperial nobles, the Companions have been taught the way of the sword since an early age. Companions all have Expert Swordsman Skill.</description>
+        </rule>
+      </rules>
+      <categoryLinks>
+        <categoryLink id="cbe4-6d96-7c64-5903" name="Heroes" hidden="false" targetId="a0fce0bc-02e0-a064-7a39-5b97ff8a9c94" primary="true" />
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="2bf8-654e-5ab9-5a13" name="Equipment List" page="0" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint id="0980-4e16-4006-5c6b" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+          </constraints>
+          <costs>
+            <cost name=" gc" typeId="points" value="0" />
+            <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+            <cost name="Rarity" typeId="rarity" value="0" />
+          </costs>
+          <selectionEntryGroups>
+            <selectionEntryGroup id="d366-7d1d-d086-541d" name="Hand-to-hand Weapons" hidden="false" sortIndex="1" collapsible="true">
+              <entryLinks>
+                <entryLink id="5502-d738-105f-5591" name="Free Dagger (1st)" hidden="false" collective="false" import="true" targetId="0d0b-ed37-d8b0-4cbf" type="selectionEntry">
+                  <constraints>
+                    <constraint id="1efe-9d1b-8298-51e0" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="7920-fb66-6e1d-5d1c" name="Dagger" hidden="false" collective="false" import="true" targetId="64e0-0bb6-542b-4beb" type="selectionEntry" />
+                <entryLink id="f089-ff23-8f0f-5fec" name="Sword" hidden="false" collective="false" import="true" targetId="34fd-d6a3-50ee-ee06" type="selectionEntry" />
+                <entryLink id="6567-0150-381f-573e" name="Hammer" hidden="false" collective="false" import="true" targetId="cfcc-39fd-aeb4-876a" type="selectionEntry" />
+                <entryLink id="c27e-79de-9d69-57cb" name="Double-Handed Weapon" hidden="false" collective="false" import="true" targetId="a0a1-b311-e3aa-6c3b" type="selectionEntry" />
+                <entryLink id="3c05-80d9-a57d-56c2" name="Lance" hidden="false" collective="false" import="true" targetId="5223-13a6-14ec-f372" type="selectionEntry">
+                  <costs>
+                    <cost name=" gc" typeId="points" value="20" />
+                  </costs>
+                </entryLink>
+              </entryLinks>
+              <selectionEntries>
+                <selectionEntry id="ef6b-6e50-0485-55ae" name="Misericordia" page="0" hidden="false" collective="false" import="true" type="upgrade">
+                  <rules>
+                    <rule id="437f-3dd6-a50b-5eb4" name="Range" hidden="false">
+                      <description>Close combat</description>
+                    </rule>
+                    <rule id="42d9-c78b-d06b-528c" name="Strength" hidden="false">
+                      <description>As user</description>
+                    </rule>
+                    <rule id="121c-4176-22c6-5b33" name="Special Rules" hidden="false">
+                      <description>Coup de Grace</description>
+                    </rule>
+                    <rule id="97f8-d8f5-900a-5557" name="Coup de Grace" hidden="false">
+                      <description>As the warriors of the Cursed Cavalcade are experts at hitting the vital spots of their opponents, and the Misericordia can find the smallest chink in even the best suit of armor. Often the wielders choose a spot that causes indescribable pain but does not kill the target outright so he can be dragged before the Throne of Worms. When attacking knocked down opponents, Misericordia bypasses all armor saves.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="5" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+              <constraints>
+                <constraint id="8dc1-e3de-bc59-5293" type="max" field="selections" scope="parent" value="2" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+              </constraints>
+              <modifiers>
+                <modifier type="set" value="3" field="8dc1-e3de-bc59-5293">
+                  <conditions>
+                    <condition type="equalTo" value="1" field="selections" scope="parent" childId="5502-d738-105f-5591" shared="true" percentValue="false" includeChildSelections="false" includeChildForces="false" />
+                  </conditions>
+                </modifier>
+              </modifiers>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="7a56-e7f2-9320-5997" name="Missile Weapons" hidden="false" sortIndex="2" collapsible="true">
+              <entryLinks>
+                <entryLink id="5a87-ca2e-8566-5d38" name="Long Bow" hidden="false" collective="false" import="true" targetId="afa2-2d5c-54dd-d435" type="selectionEntry">
+                  <constraints>
+                    <constraint id="d446-4ee3-8ac5-563d" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="5baf-b278-f05c-5be7" name="Duelling Pistol" hidden="false" collective="false" import="true" targetId="da24-6a7f-725b-5bcb" type="selectionEntry">
+                  <constraints>
+                    <constraint id="6803-9084-7b71-5997" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="25" />
+                  </costs>
+                </entryLink>
+                <entryLink id="a50d-59a7-fc58-5260" name="Brace of Duelling Pistols" hidden="false" collective="false" import="true" targetId="da24-6a7f-725b-5bcd" type="selectionEntry">
+                  <constraints>
+                    <constraint id="5878-560b-53e0-5a76" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="50" />
+                  </costs>
+                </entryLink>
+                <entryLink id="ac29-cdf5-2317-5ddd" name="Blunderbuss" hidden="false" collective="false" import="true" targetId="4386-7400-9146-1dee" type="selectionEntry">
+                  <constraints>
+                    <constraint id="fb25-108e-1984-5028" type="max" field="selections" scope="force" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                    <constraint id="092f-b6d1-b8cb-5c47" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+              </entryLinks>
+              <selectionEntries>
+                <selectionEntry id="b7b4-a022-8dfc-56ee" name="Hunting Rifle" page="0" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint id="a80c-1b9b-850b-5e13" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                  <rules>
+                    <rule id="cfc7-3b02-a95a-5943" name="Source note" hidden="false">
+                      <description>No matching Hunting Rifle entry was found in the current shared data catalogue. The 200 GC list price is shown, but the weapon profile/mechanics need a source check.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="200" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+              <constraints>
+                <constraint id="0cc1-8113-6476-5a07" type="max" field="selections" scope="parent" value="2" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+              </constraints>
+              <modifiers>
+                <modifier id="bd6c-11d8-cae7-5e3f" type="set" value="0" field="5878-560b-53e0-5a76">
+                  <conditions>
+                    <condition type="equalTo" value="1" field="selections" scope="parent" childId="5baf-b278-f05c-5be7" shared="true" percentValue="false" includeChildSelections="false" includeChildForces="false" />
+                  </conditions>
+                </modifier>
+                <modifier id="91d3-2337-6c20-5174" type="set" value="0" field="6803-9084-7b71-5997">
+                  <conditions>
+                    <condition type="equalTo" value="1" field="selections" scope="parent" childId="a50d-59a7-fc58-5260" shared="true" percentValue="false" includeChildSelections="false" includeChildForces="false" />
+                  </conditions>
+                </modifier>
+              </modifiers>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="afd9-c23d-b584-5b8f" name="Armour" hidden="false" sortIndex="3" collapsible="true">
+              <entryLinks>
+                <entryLink id="e06e-6842-b8d9-526b" name="Light Armour" hidden="false" collective="false" import="true" targetId="3d2a-426a-c350-2a03" type="selectionEntry">
+                  <constraints>
+                    <constraint id="90fb-67c6-a9af-5574" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="93f5-649a-104d-5939" name="Heavy Armour" hidden="false" collective="false" import="true" targetId="4e34-bbc5-c7ef-6bd6" type="selectionEntry">
+                  <constraints>
+                    <constraint id="7ea4-3697-d676-5479" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="49eb-5ba7-23e1-5d19" name="Shield" hidden="false" collective="false" import="true" targetId="74fb-cc90-1361-df26" type="selectionEntry">
+                  <constraints>
+                    <constraint id="e076-ac07-adac-5a07" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="f72d-c7bd-1a1b-5435" name="Buckler" hidden="false" collective="false" import="true" targetId="0871-44c2-f0f0-c27a" type="selectionEntry">
+                  <constraints>
+                    <constraint id="eef9-593a-3fd9-5b06" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="5970-09dc-3721-5e4a" name="Helmet" hidden="false" collective="false" import="true" targetId="d0e5-ca89-5f0d-f5d2" type="selectionEntry">
+                  <constraints>
+                    <constraint id="ae8a-6a13-56f8-5861" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+              </entryLinks>
+              <selectionEntries>
+                <selectionEntry id="5906-12e0-978b-5782" name="Cathayan Quilted Silk Armour" page="0" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint id="2dfe-7301-0276-5efe" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                  <rules>
+                    <rule id="1777-4812-9164-5e00" name="Cathayan Quilted Silk Armour" hidden="false">
+                      <description>The Silk Armour adds +1 to the armour saves against any type of attack. It can be combined with any other type of armour.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="15" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+              <modifiers>
+                <modifier id="36c2-cc55-3d07-55fe" type="set" value="0" field="90fb-67c6-a9af-5574">
+                  <conditions>
+                    <condition type="equalTo" value="1" field="selections" scope="parent" childId="93f5-649a-104d-5939" shared="true" percentValue="false" includeChildSelections="false" includeChildForces="false" />
+                  </conditions>
+                </modifier>
+                <modifier id="ad4e-2934-787d-5554" type="set" value="0" field="7ea4-3697-d676-5479">
+                  <conditions>
+                    <condition type="equalTo" value="1" field="selections" scope="parent" childId="e06e-6842-b8d9-526b" shared="true" percentValue="false" includeChildSelections="false" includeChildForces="false" />
+                  </conditions>
+                </modifier>
+              </modifiers>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="9fee-9850-44a7-5949" name="Miscellaneous" hidden="false" sortIndex="4" collapsible="true">
+              <entryLinks>
+                <entryLink id="a4a5-facd-6386-5695" name="Superior Blackpowder" hidden="false" collective="false" import="true" targetId="332b-3337-b827-2014" type="selectionEntry">
+                  <constraints>
+                    <constraint id="e5f9-b5ee-8b81-5a2d" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+              </entryLinks>
+              <selectionEntries>
+                <selectionEntry id="b182-6d52-d25c-5b22" name="Banner of the Noble House" page="0" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint id="7cf4-16dd-b32e-5a29" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                  <rules>
+                    <rule id="9446-77ca-c191-5c41" name="Banner of the Noble House" hidden="false">
+                      <description>The bearer gains +1 Leadership, to a maximum of 10. If the bearer is not knocked down, stunned or fleeing, friendly models within 12 inches may reroll failed All Alone tests. The bearer must use one hand to carry the banner and cannot carry a shield, buckler, double-handed weapon or off-hand weapon in combat.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="25" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+        <selectionEntry id="ce01-a9f1-4e23-5ea4" name="Special Mask (free at warband creation)" page="0" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint id="f4ad-f43b-5790-5332" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+          </constraints>
+          <costs>
+            <cost name=" gc" typeId="points" value="0" />
+            <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+            <cost name="Rarity" typeId="rarity" value="0" />
+          </costs>
+          <selectionEntryGroups>
+            <selectionEntryGroup id="be09-8758-e809-51d3" name="Mask" hidden="false" sortIndex="1" collapsible="false">
+              <entryLinks>
+                <entryLink id="4d47-b0da-58b5-5d71" name="Silver Death Mask" hidden="false" collective="false" import="true" targetId="71e3-ca5b-68f5-5ba7" type="selectionEntry" sortIndex="1" />
+                <entryLink id="7564-0447-f394-512c" name="Fish Head Mask" hidden="false" collective="false" import="true" targetId="2d06-cb8e-220b-5c6c" type="selectionEntry" sortIndex="2" />
+                <entryLink id="65c7-2a0f-8823-58b9" name="Faceless Mask" hidden="false" collective="false" import="true" targetId="9d1a-5abb-676a-57d5" type="selectionEntry" sortIndex="3" />
+                <entryLink id="2fa0-6ca9-49cd-5a9b" name="Evil Jester Mask" hidden="false" collective="false" import="true" targetId="5300-ad2c-8a0a-5868" type="selectionEntry" sortIndex="4" />
+              </entryLinks>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+      </selectionEntries>
+      <entryLinks>
+        <entryLink id="71e9-a7ee-e0b1-594c" name="Experience" hidden="false" collective="false" import="true" targetId="d769-0d85-e810-df60" type="selectionEntry">
+          <constraints>
+            <constraint id="5dd8-4e1f-cb49-52e6" type="min" field="selections" scope="parent" value="8" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+          </constraints>
+        </entryLink>
+        <entryLink id="35b7-adfe-058e-5982" name="Characteristic Increases" hidden="false" collective="false" import="true" targetId="7879-46ac-5598-aa00" type="selectionEntryGroup" />
+        <entryLink id="017a-4260-41a4-55b6" name="Serious Injuries" hidden="false" collective="false" import="true" targetId="313b-a816-0a89-926c" type="selectionEntryGroup" />
+      </entryLinks>
+      <costs>
+        <cost name=" gc" typeId="points" value="45" />
+        <cost name=" Warband Rating" typeId="wb-rating" value="5" />
+        <cost name="Rarity" typeId="rarity" value="0" />
+      </costs>
+      <selectionEntryGroups>
+        <selectionEntryGroup id="98b1-ca4f-30ca-5d6f" name="Skills" hidden="false" sortIndex="20" collapsible="true">
+          <entryLinks>
+            <entryLink id="ffe6-3c33-a1c2-5ef3" name="Combat Skills" hidden="false" collective="false" import="true" targetId="ee2c-89e3-489b-d0cb" type="selectionEntryGroup" sortIndex="1" />
+            <entryLink id="4571-5bd2-c3f9-5623" name="Shooting Skills" hidden="false" collective="false" import="true" targetId="0073-d2d6-15c0-45b1" type="selectionEntryGroup" sortIndex="2" />
+            <entryLink id="f179-f258-08eb-542a" name="Strength Skills" hidden="false" collective="false" import="true" targetId="e5ac-cd5b-9057-e096" type="selectionEntryGroup" sortIndex="3" />
+            <entryLink id="6b43-d1f4-60b8-58c9" name="Speed Skills" hidden="false" collective="false" import="true" targetId="e134-0fdf-67a2-4684" type="selectionEntryGroup" sortIndex="4" />
+          </entryLinks>
+          <selectionEntryGroups>
+            <selectionEntryGroup id="cd66-6a74-6bc0-54a1" name="Cavalcade Special Skills" hidden="false" sortIndex="5" collapsible="true">
+              <selectionEntries>
+                <selectionEntry id="52bb-a0c7-d1c8-567d" name="Noblesse obliges" page="0" hidden="false" collective="false" import="true" type="upgrade" sortIndex="1">
+                  <rules>
+                    <rule id="77a2-da24-0a2f-594f" name="Noblesse obliges" hidden="false">
+                      <description>The warrior feels utterly superior to his opponents, with long lineage and prestige to look down upon his common enemies, seen as nothing more than cattle to be slaughtered.
+
+The Warrior is immune to fear and can stomp opponents who are knocked down with is iron-shod boots. This gives them additional attack against Knocked down opponents at their own Strength.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="0" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="98d7-378f-801a-5673" name="Torturer" page="0" hidden="false" collective="false" import="true" type="upgrade" sortIndex="2">
+                  <rules>
+                    <rule id="d859-83e4-405c-543b" name="Torturer" hidden="false">
+                      <description>Having learned the craft of torture in the Ritual of the Comet, the warrior knows how to inflict maximum pain on the body and uses it in a sadistic and cruel way in combat.
+
+Any model successfully wounded (and not saved) in close combat by this Hero loses 1 point of Strength permanently for the duration of the battle as the pain from the wound causes agony. The effect is accumulative and can reduce the Strength of the target to a minimum of 1. The Undead are immune to this effect.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="0" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="a6e3-a2f0-8f3f-5d31" name="Duelist" page="0" hidden="false" collective="false" import="true" type="upgrade" sortIndex="3">
+                  <rules>
+                    <rule id="2dce-8be1-e64f-5dd8" name="Duelist" hidden="false">
+                      <description>The warrior is an expert in hand-to-hand combat method of the Imperial duelist, aristocrats famed for their skill in single combat.
+
+At the end of each Close Combat phase, the Duelist can force any non-large opponent he is fighting one-on-one to pass a Strength test or be pushed 2" in any direction choosen by the Duelist. If this brings the target in contact with another model, both suffer an automatic Strength 2 hit. If this pushes the opponent off from a high place, then he falls and takes damage as normal. The duelist stays on the elevated area.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="0" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+    </selectionEntry>
+    <selectionEntry id="260e-7c98-d279-562d" name="Twisted Scholar" page="0" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint id="bb84-798f-79e3-53f7" type="min" field="selections" scope="roster" value="0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+        <constraint id="6094-9369-2964-504d" type="max" field="selections" scope="roster" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+      </constraints>
+      <profiles>
+        <profile id="348d-85cb-a77c-5d63" name="Twisted Scholar" page="0" hidden="false" typeId="e1beaa44-e54d-dd6b-d1f2-446b333c9bb9" typeName="Model">
+          <characteristics>
+            <characteristic name="M" typeId="2a0bcc4c-8266-418f-13d6-a6b44def5e92">4</characteristic>
+            <characteristic name="WS" typeId="d5aca8ba-0204-b324-b976-c2b536e09924">2</characteristic>
+            <characteristic name="BS" typeId="5b4d181b-23ae-5ed7-9262-c1d2f79246a8">2</characteristic>
+            <characteristic name="S" typeId="7f1f0a4d-68dc-b0df-5703-c4d0d91a93b9">3</characteristic>
+            <characteristic name="T" typeId="54f4796b-dedb-c296-8b1a-ff7f8043293a">3</characteristic>
+            <characteristic name="W" typeId="3172c8dc-ebe4-0c40-72ab-8fd0076b9442">1</characteristic>
+            <characteristic name="I" typeId="a6fd52b0-be0a-655e-6314-87b392c9c90e">3</characteristic>
+            <characteristic name="A" typeId="bf393c37-9d10-fc85-c147-62b1c01a89fe">1</characteristic>
+            <characteristic name="LD" typeId="e234eaea-a02a-2fb7-3e1f-605392aabb89">7</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule id="4ff9-2e51-59d3-5666" name="Magical Adept" hidden="false">
+          <description>When hiring a Twisted Scholar, you may pay 10 additional GC to upgrade it to a Wizard. If you do this then the twisted scholar uses Lesser Magic and knows 1 spell chosen randomly.</description>
+        </rule>
+        <rule id="3d20-0d6f-db92-565a" name="Story Teller" hidden="false">
+          <description>When hiring a Twisted Scholar, if you did not upgrade it to a Wizard, you may pay 10 additional GC to make it a Chronicler. A Chronicler has in-depth knowledge of the city of Mordheim and may reroll an extra dice during Exploration phase and may decide which of the two dice to keep.</description>
+        </rule>
+      </rules>
+      <categoryLinks>
+        <categoryLink id="68f6-5949-2506-5209" name="Heroes" hidden="false" targetId="a0fce0bc-02e0-a064-7a39-5b97ff8a9c94" primary="true" />
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="3089-c3a3-8b70-50bf" name="Equipment List" page="0" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint id="1ff1-e319-d34a-55ce" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+          </constraints>
+          <costs>
+            <cost name=" gc" typeId="points" value="0" />
+            <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+            <cost name="Rarity" typeId="rarity" value="0" />
+          </costs>
+          <selectionEntryGroups>
+            <selectionEntryGroup id="5c1c-40dd-aea9-59a1" name="Hand-to-hand Weapons" hidden="false" sortIndex="1" collapsible="true">
+              <entryLinks>
+                <entryLink id="7487-a228-240d-5cbf" name="Free Dagger (1st)" hidden="false" collective="false" import="true" targetId="0d0b-ed37-d8b0-4cbf" type="selectionEntry">
+                  <constraints>
+                    <constraint id="36c6-fd2a-8b5c-54c6" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="be75-b80f-afed-5e8e" name="Dagger" hidden="false" collective="false" import="true" targetId="64e0-0bb6-542b-4beb" type="selectionEntry" />
+                <entryLink id="865d-939c-3933-5e2a" name="Sword" hidden="false" collective="false" import="true" targetId="34fd-d6a3-50ee-ee06" type="selectionEntry" />
+                <entryLink id="60a2-3765-5f92-56ec" name="Hammer" hidden="false" collective="false" import="true" targetId="cfcc-39fd-aeb4-876a" type="selectionEntry" />
+                <entryLink id="e508-7ac8-e43c-542d" name="Double-Handed Weapon" hidden="false" collective="false" import="true" targetId="a0a1-b311-e3aa-6c3b" type="selectionEntry" />
+                <entryLink id="02a7-8484-5918-5039" name="Lance" hidden="false" collective="false" import="true" targetId="5223-13a6-14ec-f372" type="selectionEntry">
+                  <costs>
+                    <cost name=" gc" typeId="points" value="20" />
+                  </costs>
+                </entryLink>
+              </entryLinks>
+              <selectionEntries>
+                <selectionEntry id="ec00-211a-3f1e-55a1" name="Misericordia" page="0" hidden="false" collective="false" import="true" type="upgrade">
+                  <rules>
+                    <rule id="9040-7c89-fd1f-57b5" name="Range" hidden="false">
+                      <description>Close combat</description>
+                    </rule>
+                    <rule id="91e7-5e3e-8042-5164" name="Strength" hidden="false">
+                      <description>As user</description>
+                    </rule>
+                    <rule id="f76e-0c09-8282-5384" name="Special Rules" hidden="false">
+                      <description>Coup de Grace</description>
+                    </rule>
+                    <rule id="5802-dc61-820e-5eaa" name="Coup de Grace" hidden="false">
+                      <description>As the warriors of the Cursed Cavalcade are experts at hitting the vital spots of their opponents, and the Misericordia can find the smallest chink in even the best suit of armor. Often the wielders choose a spot that causes indescribable pain but does not kill the target outright so he can be dragged before the Throne of Worms. When attacking knocked down opponents, Misericordia bypasses all armor saves.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="5" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+              <constraints>
+                <constraint id="5d65-9afb-8856-5ecb" type="max" field="selections" scope="parent" value="2" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+              </constraints>
+              <modifiers>
+                <modifier type="set" value="3" field="5d65-9afb-8856-5ecb">
+                  <conditions>
+                    <condition type="equalTo" value="1" field="selections" scope="parent" childId="7487-a228-240d-5cbf" shared="true" percentValue="false" includeChildSelections="false" includeChildForces="false" />
+                  </conditions>
+                </modifier>
+              </modifiers>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="755a-147a-e635-501d" name="Missile Weapons" hidden="false" sortIndex="2" collapsible="true">
+              <entryLinks>
+                <entryLink id="5109-382e-54dd-5101" name="Long Bow" hidden="false" collective="false" import="true" targetId="afa2-2d5c-54dd-d435" type="selectionEntry">
+                  <constraints>
+                    <constraint id="83b5-9665-3435-5d6f" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="a876-385c-aa16-5ee4" name="Duelling Pistol" hidden="false" collective="false" import="true" targetId="da24-6a7f-725b-5bcb" type="selectionEntry">
+                  <constraints>
+                    <constraint id="2263-dbe6-8ab5-5fd3" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="25" />
+                  </costs>
+                </entryLink>
+                <entryLink id="fa75-2a4f-9c75-5d1c" name="Brace of Duelling Pistols" hidden="false" collective="false" import="true" targetId="da24-6a7f-725b-5bcd" type="selectionEntry">
+                  <constraints>
+                    <constraint id="dfff-9b98-9dc9-5de7" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="50" />
+                  </costs>
+                </entryLink>
+                <entryLink id="0106-3a73-e2dd-5fb9" name="Blunderbuss" hidden="false" collective="false" import="true" targetId="4386-7400-9146-1dee" type="selectionEntry">
+                  <constraints>
+                    <constraint id="2cde-6bda-9549-57f5" type="max" field="selections" scope="force" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                    <constraint id="30f5-351d-874f-5ac9" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+              </entryLinks>
+              <selectionEntries>
+                <selectionEntry id="fc1f-2573-9bc2-573a" name="Hunting Rifle" page="0" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint id="8372-087e-61e3-54ea" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                  <rules>
+                    <rule id="1ff2-6015-34d7-5db5" name="Source note" hidden="false">
+                      <description>No matching Hunting Rifle entry was found in the current shared data catalogue. The 200 GC list price is shown, but the weapon profile/mechanics need a source check.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="200" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+              <constraints>
+                <constraint id="0e0d-82a2-16d6-5247" type="max" field="selections" scope="parent" value="2" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+              </constraints>
+              <modifiers>
+                <modifier id="731a-a495-3859-573a" type="set" value="0" field="dfff-9b98-9dc9-5de7">
+                  <conditions>
+                    <condition type="equalTo" value="1" field="selections" scope="parent" childId="a876-385c-aa16-5ee4" shared="true" percentValue="false" includeChildSelections="false" includeChildForces="false" />
+                  </conditions>
+                </modifier>
+                <modifier id="96c6-a35f-a5cb-5f44" type="set" value="0" field="2263-dbe6-8ab5-5fd3">
+                  <conditions>
+                    <condition type="equalTo" value="1" field="selections" scope="parent" childId="fa75-2a4f-9c75-5d1c" shared="true" percentValue="false" includeChildSelections="false" includeChildForces="false" />
+                  </conditions>
+                </modifier>
+              </modifiers>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="a24e-e47d-01b7-5c04" name="Armour" hidden="false" sortIndex="3" collapsible="true">
+              <entryLinks>
+                <entryLink id="34c2-b33d-b694-5c1c" name="Light Armour" hidden="false" collective="false" import="true" targetId="3d2a-426a-c350-2a03" type="selectionEntry">
+                  <constraints>
+                    <constraint id="480a-17b1-23ae-5403" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="c495-c207-c50d-5e61" name="Heavy Armour" hidden="false" collective="false" import="true" targetId="4e34-bbc5-c7ef-6bd6" type="selectionEntry">
+                  <constraints>
+                    <constraint id="efa9-1e5d-832d-53cb" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="4b97-8342-603c-5359" name="Shield" hidden="false" collective="false" import="true" targetId="74fb-cc90-1361-df26" type="selectionEntry">
+                  <constraints>
+                    <constraint id="e7c1-ed58-b72a-530b" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="31d6-29b1-6da3-5d6e" name="Buckler" hidden="false" collective="false" import="true" targetId="0871-44c2-f0f0-c27a" type="selectionEntry">
+                  <constraints>
+                    <constraint id="9a5a-e183-bde2-5ba1" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="07c6-d9f9-b85d-5e0d" name="Helmet" hidden="false" collective="false" import="true" targetId="d0e5-ca89-5f0d-f5d2" type="selectionEntry">
+                  <constraints>
+                    <constraint id="2332-f388-97f6-5dee" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+              </entryLinks>
+              <selectionEntries>
+                <selectionEntry id="c771-9c9c-b528-5f43" name="Cathayan Quilted Silk Armour" page="0" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint id="d537-8785-d428-530b" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                  <rules>
+                    <rule id="8e11-2603-ff4d-5dec" name="Cathayan Quilted Silk Armour" hidden="false">
+                      <description>The Silk Armour adds +1 to the armour saves against any type of attack. It can be combined with any other type of armour.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="15" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+              <modifiers>
+                <modifier id="d90b-8094-9340-5592" type="set" value="0" field="480a-17b1-23ae-5403">
+                  <conditions>
+                    <condition type="equalTo" value="1" field="selections" scope="parent" childId="c495-c207-c50d-5e61" shared="true" percentValue="false" includeChildSelections="false" includeChildForces="false" />
+                  </conditions>
+                </modifier>
+                <modifier id="65e2-622b-19fa-531a" type="set" value="0" field="efa9-1e5d-832d-53cb">
+                  <conditions>
+                    <condition type="equalTo" value="1" field="selections" scope="parent" childId="34c2-b33d-b694-5c1c" shared="true" percentValue="false" includeChildSelections="false" includeChildForces="false" />
+                  </conditions>
+                </modifier>
+              </modifiers>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="18c3-ce31-28fe-5839" name="Miscellaneous" hidden="false" sortIndex="4" collapsible="true">
+              <entryLinks>
+                <entryLink id="791c-093c-ae35-5c22" name="Superior Blackpowder" hidden="false" collective="false" import="true" targetId="332b-3337-b827-2014" type="selectionEntry">
+                  <constraints>
+                    <constraint id="4e9d-7d33-f794-5c7e" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+              </entryLinks>
+              <selectionEntries>
+                <selectionEntry id="3c43-a011-c92a-5bd5" name="Banner of the Noble House" page="0" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint id="77a2-88f2-2879-54ea" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                  <rules>
+                    <rule id="8641-cedd-5b61-5522" name="Banner of the Noble House" hidden="false">
+                      <description>The bearer gains +1 Leadership, to a maximum of 10. If the bearer is not knocked down, stunned or fleeing, friendly models within 12 inches may reroll failed All Alone tests. The bearer must use one hand to carry the banner and cannot carry a shield, buckler, double-handed weapon or off-hand weapon in combat.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="25" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+        <selectionEntry id="4eb1-540c-8e51-500d" name="Special Mask (free at warband creation)" page="0" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint id="b3b7-9c54-be9a-5ab6" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+          </constraints>
+          <costs>
+            <cost name=" gc" typeId="points" value="0" />
+            <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+            <cost name="Rarity" typeId="rarity" value="0" />
+          </costs>
+          <selectionEntryGroups>
+            <selectionEntryGroup id="0c25-81b0-22de-551a" name="Mask" hidden="false" sortIndex="1" collapsible="false">
+              <entryLinks>
+                <entryLink id="fe4f-7f02-8b83-53e8" name="Silver Death Mask" hidden="false" collective="false" import="true" targetId="71e3-ca5b-68f5-5ba7" type="selectionEntry" sortIndex="1" />
+                <entryLink id="f3a8-de71-9cae-5589" name="Fish Head Mask" hidden="false" collective="false" import="true" targetId="2d06-cb8e-220b-5c6c" type="selectionEntry" sortIndex="2" />
+                <entryLink id="ad2d-ae01-9697-5c82" name="Faceless Mask" hidden="false" collective="false" import="true" targetId="9d1a-5abb-676a-57d5" type="selectionEntry" sortIndex="3" />
+                <entryLink id="2c16-1625-6924-585b" name="Plague Doctor Mask (Twisted Scholar only)" hidden="false" collective="false" import="true" targetId="5e76-625e-99a7-53d3" type="selectionEntry" sortIndex="4" />
+                <entryLink id="2efe-f629-5ea4-5282" name="Evil Jester Mask" hidden="false" collective="false" import="true" targetId="5300-ad2c-8a0a-5868" type="selectionEntry" sortIndex="5" />
+              </entryLinks>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+      </selectionEntries>
+      <entryLinks>
+        <entryLink id="34ed-d0d8-d111-536e" name="Experience" hidden="false" collective="false" import="true" targetId="d769-0d85-e810-df60" type="selectionEntry">
+          <constraints>
+            <constraint id="3b3e-bc86-6815-56d6" type="min" field="selections" scope="parent" value="4" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+          </constraints>
+        </entryLink>
+        <entryLink id="70b3-8dff-47d0-59c2" name="Characteristic Increases" hidden="false" collective="false" import="true" targetId="7879-46ac-5598-aa00" type="selectionEntryGroup" />
+        <entryLink id="c295-0dba-fef7-5542" name="Serious Injuries" hidden="false" collective="false" import="true" targetId="313b-a816-0a89-926c" type="selectionEntryGroup" />
+      </entryLinks>
+      <costs>
+        <cost name=" gc" typeId="points" value="25" />
+        <cost name=" Warband Rating" typeId="wb-rating" value="5" />
+        <cost name="Rarity" typeId="rarity" value="0" />
+      </costs>
+      <selectionEntryGroups>
+        <selectionEntryGroup id="e55a-5b1c-004d-5e4c" name="Skills" hidden="false" sortIndex="20" collapsible="true">
+          <entryLinks>
+            <entryLink id="da12-95ec-c3a6-5e4b" name="Academic Skills" hidden="false" collective="false" import="true" targetId="df9d-8724-d362-9d7c" type="selectionEntryGroup" sortIndex="1" />
+          </entryLinks>
+          <selectionEntryGroups>
+            <selectionEntryGroup id="a786-fde2-fc34-5c53" name="Cavalcade Special Skills" hidden="false" sortIndex="2" collapsible="true">
+              <selectionEntries>
+                <selectionEntry id="2aef-7f52-57b4-5cb4" name="Noblesse obliges" page="0" hidden="false" collective="false" import="true" type="upgrade" sortIndex="1">
+                  <rules>
+                    <rule id="f53e-47e4-a54b-526b" name="Noblesse obliges" hidden="false">
+                      <description>The warrior feels utterly superior to his opponents, with long lineage and prestige to look down upon his common enemies, seen as nothing more than cattle to be slaughtered.
+
+The Warrior is immune to fear and can stomp opponents who are knocked down with is iron-shod boots. This gives them additional attack against Knocked down opponents at their own Strength.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="0" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="9f81-7ad2-445d-5bae" name="Torturer" page="0" hidden="false" collective="false" import="true" type="upgrade" sortIndex="2">
+                  <rules>
+                    <rule id="aecc-548e-4f32-5f76" name="Torturer" hidden="false">
+                      <description>Having learned the craft of torture in the Ritual of the Comet, the warrior knows how to inflict maximum pain on the body and uses it in a sadistic and cruel way in combat.
+
+Any model successfully wounded (and not saved) in close combat by this Hero loses 1 point of Strength permanently for the duration of the battle as the pain from the wound causes agony. The effect is accumulative and can reduce the Strength of the target to a minimum of 1. The Undead are immune to this effect.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="0" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="abb2-4a7b-4a30-5ac2" name="Duelist" page="0" hidden="false" collective="false" import="true" type="upgrade" sortIndex="3">
+                  <rules>
+                    <rule id="492d-0a2b-27d9-5630" name="Duelist" hidden="false">
+                      <description>The warrior is an expert in hand-to-hand combat method of the Imperial duelist, aristocrats famed for their skill in single combat.
+
+At the end of each Close Combat phase, the Duelist can force any non-large opponent he is fighting one-on-one to pass a Strength test or be pushed 2" in any direction choosen by the Duelist. If this brings the target in contact with another model, both suffer an automatic Strength 2 hit. If this pushes the opponent off from a high place, then he falls and takes damage as normal. The duelist stays on the elevated area.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="0" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntryGroup>
+        <selectionEntryGroup id="6767-81ab-444d-5d83" name="Scholarly Path (choose at most one)" hidden="false" sortIndex="30" collapsible="true">
+          <selectionEntries>
+            <selectionEntry id="66df-375f-2a18-58f6" name="Wizard" page="0" hidden="false" collective="false" import="true" type="upgrade">
+              <rules>
+                <rule id="6696-58d1-426c-59f0" name="Wizard" hidden="false">
+                  <description>Pay 10 GC when hiring to become a Wizard. Uses Lesser Magic and knows one randomly chosen spell. Spell selection and spell list are not automated in this draft.</description>
+                </rule>
+              </rules>
+              <costs>
+                <cost name=" gc" typeId="points" value="10" />
+                <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                <cost name="Rarity" typeId="rarity" value="0" />
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="bbf8-cf31-5f9b-57d5" name="Chronicler" page="0" hidden="false" collective="false" import="true" type="upgrade">
+              <rules>
+                <rule id="029f-1f3e-f855-56c4" name="Chronicler" hidden="false">
+                  <description>Pay 10 GC when hiring, only if not upgraded to Wizard. During Exploration, reroll one extra dice and choose which of the two dice to keep.</description>
+                </rule>
+              </rules>
+              <costs>
+                <cost name=" gc" typeId="points" value="10" />
+                <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                <cost name="Rarity" typeId="rarity" value="0" />
+              </costs>
+            </selectionEntry>
+          </selectionEntries>
+          <constraints>
+            <constraint id="5182-d49a-781a-5bd5" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+          </constraints>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+    </selectionEntry>
+    <selectionEntry id="6cbf-efbe-e3b9-5013" name="Cursed Piper" page="0" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint id="930a-d8fe-e16b-568e" type="min" field="selections" scope="roster" value="0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+        <constraint id="edb0-e3ed-a663-584f" type="max" field="selections" scope="roster" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+      </constraints>
+      <profiles>
+        <profile id="8270-8874-697b-58f6" name="Cursed Piper" page="0" hidden="false" typeId="e1beaa44-e54d-dd6b-d1f2-446b333c9bb9" typeName="Model">
+          <characteristics>
+            <characteristic name="M" typeId="2a0bcc4c-8266-418f-13d6-a6b44def5e92">4</characteristic>
+            <characteristic name="WS" typeId="d5aca8ba-0204-b324-b976-c2b536e09924">3</characteristic>
+            <characteristic name="BS" typeId="5b4d181b-23ae-5ed7-9262-c1d2f79246a8">3</characteristic>
+            <characteristic name="S" typeId="7f1f0a4d-68dc-b0df-5703-c4d0d91a93b9">3</characteristic>
+            <characteristic name="T" typeId="54f4796b-dedb-c296-8b1a-ff7f8043293a">3</characteristic>
+            <characteristic name="W" typeId="3172c8dc-ebe4-0c40-72ab-8fd0076b9442">1</characteristic>
+            <characteristic name="I" typeId="a6fd52b0-be0a-655e-6314-87b392c9c90e">3</characteristic>
+            <characteristic name="A" typeId="bf393c37-9d10-fc85-c147-62b1c01a89fe">1</characteristic>
+            <characteristic name="LD" typeId="e234eaea-a02a-2fb7-3e1f-605392aabb89">7</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule id="c554-270b-1015-5580" name="Danse Macabre" hidden="false">
+          <description>The Piper plays the Danse Macabre in combat. During the shooting phase the Cursed Piper can direct the cursed melody of is flute against one enemy model he can see within 6” from the Piper. The enemy model must take a Ld test.
+
+If failed, the warrior is cursed by the Danse Macabre loses control of his body and forced to dance under the Piper’s will. The Piper can move the enemy model in any direction he wishes also out of close combat or force him to fall from height.
+
+At the beginning of the enemy’s turn, in the recovery phase the warrior will have to pass a Ld test or will continue to be under the Pipers’ control and cannot shoot, charge or cast spells. If engaged in close combat the model cannot attack (it is too busy dancing!).
+
+Only one enemy warrior at time can be controlled by the Danse Macabre. If the Piper targets another warrior the previous one is immediately free from the curse.</description>
+        </rule>
+        <rule id="802e-6598-a1d3-533f" name="Equipment Restrictions" hidden="false">
+          <description>The Piper must play a flute or another instrument with one hand. It may not use an off-hand weapon, a double-handed weapon, a brace of pistols, bows or crossbows. The equipment choices above omit the explicitly prohibited double-handed weapon, longbow and pistol brace; the one-hand restriction is documented but not separately checked by the roster builder.</description>
+        </rule>
+      </rules>
+      <categoryLinks>
+        <categoryLink id="4984-a2b2-efbd-59ef" name="Heroes" hidden="false" targetId="a0fce0bc-02e0-a064-7a39-5b97ff8a9c94" primary="true" />
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="1226-0eb5-331a-5dae" name="Equipment List" page="0" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint id="5450-3db0-c01d-5f38" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+          </constraints>
+          <costs>
+            <cost name=" gc" typeId="points" value="0" />
+            <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+            <cost name="Rarity" typeId="rarity" value="0" />
+          </costs>
+          <selectionEntryGroups>
+            <selectionEntryGroup id="f506-0f3d-b7d3-52e4" name="Hand-to-hand Weapons" hidden="false" sortIndex="1" collapsible="true">
+              <entryLinks>
+                <entryLink id="3b18-4125-3176-5101" name="Free Dagger (1st)" hidden="false" collective="false" import="true" targetId="0d0b-ed37-d8b0-4cbf" type="selectionEntry">
+                  <constraints>
+                    <constraint id="98a7-ede0-d910-596a" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="29c7-3dd3-42d6-5989" name="Dagger" hidden="false" collective="false" import="true" targetId="64e0-0bb6-542b-4beb" type="selectionEntry" />
+                <entryLink id="71e7-52dd-0544-5c9c" name="Sword" hidden="false" collective="false" import="true" targetId="34fd-d6a3-50ee-ee06" type="selectionEntry" />
+                <entryLink id="c290-9817-b908-59e1" name="Hammer" hidden="false" collective="false" import="true" targetId="cfcc-39fd-aeb4-876a" type="selectionEntry" />
+                <entryLink id="9a31-465d-640b-52d2" name="Lance" hidden="false" collective="false" import="true" targetId="5223-13a6-14ec-f372" type="selectionEntry">
+                  <costs>
+                    <cost name=" gc" typeId="points" value="20" />
+                  </costs>
+                </entryLink>
+              </entryLinks>
+              <selectionEntries>
+                <selectionEntry id="8371-c281-6881-5f4e" name="Misericordia" page="0" hidden="false" collective="false" import="true" type="upgrade">
+                  <rules>
+                    <rule id="0c25-fb9c-4bf9-52c8" name="Range" hidden="false">
+                      <description>Close combat</description>
+                    </rule>
+                    <rule id="e000-b2b1-f1c1-53ed" name="Strength" hidden="false">
+                      <description>As user</description>
+                    </rule>
+                    <rule id="6e96-f5b2-4f84-5c95" name="Special Rules" hidden="false">
+                      <description>Coup de Grace</description>
+                    </rule>
+                    <rule id="d53d-1bf7-111e-518c" name="Coup de Grace" hidden="false">
+                      <description>As the warriors of the Cursed Cavalcade are experts at hitting the vital spots of their opponents, and the Misericordia can find the smallest chink in even the best suit of armor. Often the wielders choose a spot that causes indescribable pain but does not kill the target outright so he can be dragged before the Throne of Worms. When attacking knocked down opponents, Misericordia bypasses all armor saves.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="5" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+              <constraints>
+                <constraint id="597d-32d1-55f3-5acd" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+              </constraints>
+              <modifiers>
+                <modifier type="set" value="2" field="597d-32d1-55f3-5acd">
+                  <conditions>
+                    <condition type="equalTo" value="1" field="selections" scope="parent" childId="3b18-4125-3176-5101" shared="true" percentValue="false" includeChildSelections="false" includeChildForces="false" />
+                  </conditions>
+                </modifier>
+              </modifiers>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="3a5d-2d3e-69b9-59da" name="Missile Weapons" hidden="false" sortIndex="2" collapsible="true">
+              <entryLinks>
+                <entryLink id="e200-646a-d45b-5829" name="Duelling Pistol" hidden="false" collective="false" import="true" targetId="da24-6a7f-725b-5bcb" type="selectionEntry">
+                  <constraints>
+                    <constraint id="520d-506e-88af-5dad" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="25" />
+                  </costs>
+                </entryLink>
+                <entryLink id="9401-77e2-9a59-5b3a" name="Blunderbuss" hidden="false" collective="false" import="true" targetId="4386-7400-9146-1dee" type="selectionEntry">
+                  <constraints>
+                    <constraint id="09f5-31a0-61f8-567a" type="max" field="selections" scope="force" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                    <constraint id="fc73-45fc-d47c-5a9a" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+              </entryLinks>
+              <selectionEntries>
+                <selectionEntry id="fef5-fd47-402c-597b" name="Hunting Rifle" page="0" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint id="0b7f-2ccb-4e53-50f4" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                  <rules>
+                    <rule id="591f-2bab-e19f-52b3" name="Source note" hidden="false">
+                      <description>No matching Hunting Rifle entry was found in the current shared data catalogue. The 200 GC list price is shown, but the weapon profile/mechanics need a source check.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="200" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+              <constraints>
+                <constraint id="03c8-3d65-c598-559d" type="max" field="selections" scope="parent" value="2" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+              </constraints>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="a8b4-7679-4a90-5685" name="Armour" hidden="false" sortIndex="3" collapsible="true">
+              <entryLinks>
+                <entryLink id="0915-4b15-eb91-5f70" name="Light Armour" hidden="false" collective="false" import="true" targetId="3d2a-426a-c350-2a03" type="selectionEntry">
+                  <constraints>
+                    <constraint id="9003-85a4-916c-5221" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="33da-3349-80cb-5ca1" name="Heavy Armour" hidden="false" collective="false" import="true" targetId="4e34-bbc5-c7ef-6bd6" type="selectionEntry">
+                  <constraints>
+                    <constraint id="b8b3-e4e1-4cd2-5117" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="9d91-8bd6-6358-598d" name="Shield" hidden="false" collective="false" import="true" targetId="74fb-cc90-1361-df26" type="selectionEntry">
+                  <constraints>
+                    <constraint id="ce1d-0001-74f9-5cf2" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="dfeb-7c81-e32d-5206" name="Buckler" hidden="false" collective="false" import="true" targetId="0871-44c2-f0f0-c27a" type="selectionEntry">
+                  <constraints>
+                    <constraint id="5d20-b032-ae07-54a7" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="d299-d380-b52b-5ca7" name="Helmet" hidden="false" collective="false" import="true" targetId="d0e5-ca89-5f0d-f5d2" type="selectionEntry">
+                  <constraints>
+                    <constraint id="470b-55ac-c630-5063" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+              </entryLinks>
+              <selectionEntries>
+                <selectionEntry id="4c1e-e5ee-85cf-53aa" name="Cathayan Quilted Silk Armour" page="0" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint id="9729-2566-27a4-51f4" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                  <rules>
+                    <rule id="fb98-a981-760b-5bfa" name="Cathayan Quilted Silk Armour" hidden="false">
+                      <description>The Silk Armour adds +1 to the armour saves against any type of attack. It can be combined with any other type of armour.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="15" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+              <modifiers>
+                <modifier id="fade-f616-0096-54c2" type="set" value="0" field="9003-85a4-916c-5221">
+                  <conditions>
+                    <condition type="equalTo" value="1" field="selections" scope="parent" childId="33da-3349-80cb-5ca1" shared="true" percentValue="false" includeChildSelections="false" includeChildForces="false" />
+                  </conditions>
+                </modifier>
+                <modifier id="ad19-c1c1-308d-5369" type="set" value="0" field="b8b3-e4e1-4cd2-5117">
+                  <conditions>
+                    <condition type="equalTo" value="1" field="selections" scope="parent" childId="0915-4b15-eb91-5f70" shared="true" percentValue="false" includeChildSelections="false" includeChildForces="false" />
+                  </conditions>
+                </modifier>
+              </modifiers>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="9d56-5078-328f-53d5" name="Miscellaneous" hidden="false" sortIndex="4" collapsible="true">
+              <entryLinks>
+                <entryLink id="f22b-fd94-b54c-5b7d" name="Superior Blackpowder" hidden="false" collective="false" import="true" targetId="332b-3337-b827-2014" type="selectionEntry">
+                  <constraints>
+                    <constraint id="1461-c194-a505-5c83" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+              </entryLinks>
+              <selectionEntries>
+                <selectionEntry id="0d69-645c-663c-5975" name="Banner of the Noble House" page="0" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint id="8b04-0727-13cf-5893" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                  <rules>
+                    <rule id="0f9c-b993-3ca1-51b3" name="Banner of the Noble House" hidden="false">
+                      <description>The bearer gains +1 Leadership, to a maximum of 10. If the bearer is not knocked down, stunned or fleeing, friendly models within 12 inches may reroll failed All Alone tests. The bearer must use one hand to carry the banner and cannot carry a shield, buckler, double-handed weapon or off-hand weapon in combat.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="25" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+        <selectionEntry id="78bf-fe30-f43a-5a23" name="Special Mask (free at warband creation)" page="0" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint id="c353-ab3c-04fb-5ee7" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+          </constraints>
+          <costs>
+            <cost name=" gc" typeId="points" value="0" />
+            <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+            <cost name="Rarity" typeId="rarity" value="0" />
+          </costs>
+          <selectionEntryGroups>
+            <selectionEntryGroup id="2020-5a92-b814-54f9" name="Mask" hidden="false" sortIndex="1" collapsible="false">
+              <entryLinks>
+                <entryLink id="3ac6-ffb3-6fb4-59c8" name="Silver Death Mask" hidden="false" collective="false" import="true" targetId="71e3-ca5b-68f5-5ba7" type="selectionEntry" sortIndex="1" />
+                <entryLink id="9426-5dfe-0add-522a" name="Fish Head Mask" hidden="false" collective="false" import="true" targetId="2d06-cb8e-220b-5c6c" type="selectionEntry" sortIndex="2" />
+                <entryLink id="01cd-bf99-ca08-5f0e" name="Faceless Mask" hidden="false" collective="false" import="true" targetId="9d1a-5abb-676a-57d5" type="selectionEntry" sortIndex="3" />
+                <entryLink id="536b-c2eb-32b9-539d" name="Evil Jester Mask" hidden="false" collective="false" import="true" targetId="5300-ad2c-8a0a-5868" type="selectionEntry" sortIndex="4" />
+              </entryLinks>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+      </selectionEntries>
+      <entryLinks>
+        <entryLink id="8ec1-553f-8323-5f6c" name="Experience" hidden="false" collective="false" import="true" targetId="d769-0d85-e810-df60" type="selectionEntry">
+          <constraints>
+            <constraint id="dd01-b399-1c85-517b" type="min" field="selections" scope="parent" value="6" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+          </constraints>
+        </entryLink>
+        <entryLink id="05c2-9eb8-2572-56c8" name="Characteristic Increases" hidden="false" collective="false" import="true" targetId="7879-46ac-5598-aa00" type="selectionEntryGroup" />
+        <entryLink id="d842-d77c-2bac-5a00" name="Serious Injuries" hidden="false" collective="false" import="true" targetId="313b-a816-0a89-926c" type="selectionEntryGroup" />
+      </entryLinks>
+      <costs>
+        <cost name=" gc" typeId="points" value="40" />
+        <cost name=" Warband Rating" typeId="wb-rating" value="5" />
+        <cost name="Rarity" typeId="rarity" value="0" />
+      </costs>
+      <selectionEntryGroups>
+        <selectionEntryGroup id="9be7-d371-0fc7-5983" name="Skills" hidden="false" sortIndex="20" collapsible="true">
+          <entryLinks>
+            <entryLink id="dafa-da5d-2e11-5c95" name="Academic Skills" hidden="false" collective="false" import="true" targetId="df9d-8724-d362-9d7c" type="selectionEntryGroup" sortIndex="1" />
+          </entryLinks>
+          <selectionEntryGroups>
+            <selectionEntryGroup id="db40-8910-67b5-52c4" name="Cavalcade Special Skills" hidden="false" sortIndex="2" collapsible="true">
+              <selectionEntries>
+                <selectionEntry id="dddb-0cc3-e50d-52e1" name="Noblesse obliges" page="0" hidden="false" collective="false" import="true" type="upgrade" sortIndex="1">
+                  <rules>
+                    <rule id="36e1-c987-018d-5e2a" name="Noblesse obliges" hidden="false">
+                      <description>The warrior feels utterly superior to his opponents, with long lineage and prestige to look down upon his common enemies, seen as nothing more than cattle to be slaughtered.
+
+The Warrior is immune to fear and can stomp opponents who are knocked down with is iron-shod boots. This gives them additional attack against Knocked down opponents at their own Strength.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="0" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="612e-32ec-2aae-5750" name="Torturer" page="0" hidden="false" collective="false" import="true" type="upgrade" sortIndex="2">
+                  <rules>
+                    <rule id="1b1b-eeb5-087c-5216" name="Torturer" hidden="false">
+                      <description>Having learned the craft of torture in the Ritual of the Comet, the warrior knows how to inflict maximum pain on the body and uses it in a sadistic and cruel way in combat.
+
+Any model successfully wounded (and not saved) in close combat by this Hero loses 1 point of Strength permanently for the duration of the battle as the pain from the wound causes agony. The effect is accumulative and can reduce the Strength of the target to a minimum of 1. The Undead are immune to this effect.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="0" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="c8d4-5409-c84e-5d68" name="Duelist" page="0" hidden="false" collective="false" import="true" type="upgrade" sortIndex="3">
+                  <rules>
+                    <rule id="c02b-1506-9c69-523c" name="Duelist" hidden="false">
+                      <description>The warrior is an expert in hand-to-hand combat method of the Imperial duelist, aristocrats famed for their skill in single combat.
+
+At the end of each Close Combat phase, the Duelist can force any non-large opponent he is fighting one-on-one to pass a Strength test or be pushed 2" in any direction choosen by the Duelist. If this brings the target in contact with another model, both suffer an automatic Strength 2 hit. If this pushes the opponent off from a high place, then he falls and takes damage as normal. The duelist stays on the elevated area.</description>
+                    </rule>
+                  </rules>
+                  <costs>
+                    <cost name=" gc" typeId="points" value="0" />
+                    <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+                    <cost name="Rarity" typeId="rarity" value="0" />
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+    </selectionEntry>
+    <selectionEntry id="a1ea-1077-8101-58e2" name="Thrall" page="0" hidden="false" collective="false" import="true" type="unit">
+      <profiles>
+        <profile id="ebec-05d4-b1cb-5309" name="Thralls" page="0" hidden="false" typeId="e1beaa44-e54d-dd6b-d1f2-446b333c9bb9" typeName="Model">
+          <characteristics>
+            <characteristic name="M" typeId="2a0bcc4c-8266-418f-13d6-a6b44def5e92">4</characteristic>
+            <characteristic name="WS" typeId="d5aca8ba-0204-b324-b976-c2b536e09924">3</characteristic>
+            <characteristic name="BS" typeId="5b4d181b-23ae-5ed7-9262-c1d2f79246a8">3</characteristic>
+            <characteristic name="S" typeId="7f1f0a4d-68dc-b0df-5703-c4d0d91a93b9">3</characteristic>
+            <characteristic name="T" typeId="54f4796b-dedb-c296-8b1a-ff7f8043293a">3</characteristic>
+            <characteristic name="W" typeId="3172c8dc-ebe4-0c40-72ab-8fd0076b9442">1</characteristic>
+            <characteristic name="I" typeId="a6fd52b0-be0a-655e-6314-87b392c9c90e">3</characteristic>
+            <characteristic name="A" typeId="bf393c37-9d10-fc85-c147-62b1c01a89fe">1</characteristic>
+            <characteristic name="LD" typeId="e234eaea-a02a-2fb7-3e1f-605392aabb89">6</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <categoryLinks>
+        <categoryLink id="54c7-b3c3-4ec7-5f8e" name="Henchmen" hidden="false" targetId="f9b08d8e-4922-78d5-78ad-2047bff52dc8" primary="true" />
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="2e1d-e550-80af-58ab" name="Equipment List" page="0" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint id="ae6c-b15e-28a5-5028" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+          </constraints>
+          <costs>
+            <cost name=" gc" typeId="points" value="0" />
+            <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+            <cost name="Rarity" typeId="rarity" value="0" />
+          </costs>
+          <selectionEntryGroups>
+            <selectionEntryGroup id="8293-d8d8-915e-54ac" name="Hand-to-hand Weapons" hidden="false" sortIndex="1" collapsible="true">
+              <entryLinks>
+                <entryLink id="19d4-fc9e-7ebd-5817" name="Free Dagger (1st)" hidden="false" collective="false" import="true" targetId="0d0b-ed37-d8b0-4cbf" type="selectionEntry">
+                  <constraints>
+                    <constraint id="c5ac-6bb2-3ef7-5ddc" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="24db-5122-d489-5047" name="Dagger" hidden="false" collective="false" import="true" targetId="64e0-0bb6-542b-4beb" type="selectionEntry" />
+                <entryLink id="14f3-9ee0-373e-5673" name="Mace" hidden="false" collective="false" import="true" targetId="2cbb-013b-3ebf-0459" type="selectionEntry" />
+                <entryLink id="e7df-fb68-98bb-5a72" name="Hammer" hidden="false" collective="false" import="true" targetId="cfcc-39fd-aeb4-876a" type="selectionEntry" />
+                <entryLink id="0601-6797-7337-579c" name="Axe" hidden="false" collective="false" import="true" targetId="5d01-06b9-3a86-73c9" type="selectionEntry" />
+                <entryLink id="67df-ee96-ff4f-527e" name="Sword" hidden="false" collective="false" import="true" targetId="34fd-d6a3-50ee-ee06" type="selectionEntry" />
+                <entryLink id="19d4-0208-91af-5756" name="Spear" hidden="false" collective="false" import="true" targetId="005e-e397-8108-f198" type="selectionEntry" />
+                <entryLink id="2b20-b5e9-e7b9-5ef4" name="Double-Handed Weapon" hidden="false" collective="false" import="true" targetId="a0a1-b311-e3aa-6c3b" type="selectionEntry" />
+              </entryLinks>
+              <constraints>
+                <constraint id="304b-df0d-7d27-55bb" type="max" field="selections" scope="parent" value="2" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+              </constraints>
+              <modifiers>
+                <modifier type="set" value="3" field="304b-df0d-7d27-55bb">
+                  <conditions>
+                    <condition type="equalTo" value="1" field="selections" scope="parent" childId="19d4-fc9e-7ebd-5817" shared="true" percentValue="false" includeChildSelections="false" includeChildForces="false" />
+                  </conditions>
+                </modifier>
+              </modifiers>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="d5c3-bbff-ac85-5a2a" name="Missile Weapons" hidden="false" sortIndex="2" collapsible="true">
+              <entryLinks>
+                <entryLink id="e290-04de-cf09-5821" name="Short Bow" hidden="false" collective="false" import="true" targetId="3706-6421-53b4-940d" type="selectionEntry">
+                  <constraints>
+                    <constraint id="1c97-9fad-656e-585d" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="4d71-53f9-7de6-596b" name="Bow" hidden="false" collective="false" import="true" targetId="311a-bf3f-67ff-46e7" type="selectionEntry">
+                  <constraints>
+                    <constraint id="e032-93e1-edb0-52c0" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="a007-e9aa-0a66-5c2d" name="Crossbow" hidden="false" collective="false" import="true" targetId="38cc-bc0b-7f19-8039" type="selectionEntry">
+                  <constraints>
+                    <constraint id="f5bd-591d-5d19-5a84" type="max" field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                    <constraint id="34ae-9c52-510d-519f" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+              </entryLinks>
+              <constraints>
+                <constraint id="8f30-bbd5-ffb4-5bfd" type="max" field="selections" scope="parent" value="2" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+              </constraints>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="6daa-06fd-2f16-5cce" name="Armour" hidden="false" sortIndex="3" collapsible="true">
+              <entryLinks>
+                <entryLink id="8e3c-3189-07d0-5cea" name="Light Armour" hidden="false" collective="false" import="true" targetId="3d2a-426a-c350-2a03" type="selectionEntry">
+                  <constraints>
+                    <constraint id="a92e-04e2-0c2f-542d" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="93a7-1fa7-41b0-5b0b" name="Shield" hidden="false" collective="false" import="true" targetId="74fb-cc90-1361-df26" type="selectionEntry">
+                  <constraints>
+                    <constraint id="4e4b-0cb4-e4af-5d98" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="5d09-567e-7ee3-5c84" name="Helmet" hidden="false" collective="false" import="true" targetId="d0e5-ca89-5f0d-f5d2" type="selectionEntry">
+                  <constraints>
+                    <constraint id="f20f-aeae-9172-5084" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+              </entryLinks>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+        <selectionEntry id="1057-92e7-0196-5d75" name="Thrall" page="0" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint id="8860-043c-a8ce-512e" type="min" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+            <constraint id="706c-14ff-e7f2-5fef" type="max" field="selections" scope="parent" value="5" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+          </constraints>
+          <costs>
+            <cost name=" gc" typeId="points" value="25" />
+            <cost name=" Warband Rating" typeId="wb-rating" value="5" />
+            <cost name="Rarity" typeId="rarity" value="0" />
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <entryLinks>
+        <entryLink id="943b-61e8-f5bc-5333" name="Experience" hidden="false" collective="false" import="true" targetId="d769-0d85-e810-df60" type="selectionEntry" />
+        <entryLink id="e699-9982-60f5-559f" name="Promoted" hidden="false" collective="false" import="true" targetId="534a-6ec6-5d82-da7f" type="selectionEntry" />
+        <entryLink id="d782-58af-ae90-5823" name="Characteristic Increases" hidden="false" collective="false" import="true" targetId="7879-46ac-5598-aa00" type="selectionEntryGroup" />
+        <entryLink id="d50c-646a-1a9d-5e72" name="Serious Injuries" hidden="false" collective="false" import="true" targetId="313b-a816-0a89-926c" type="selectionEntryGroup" />
+        <entryLink id="2149-dbbf-0af6-5a05" name="Skills" hidden="false" collective="false" import="true" targetId="70b9-9a07-4088-7598" type="selectionEntryGroup" />
+      </entryLinks>
+    </selectionEntry>
+    <selectionEntry id="2b40-1d0a-ae90-5c13" name="Captured Thrall" page="0" hidden="false" collective="false" import="true" type="unit">
+      <profiles>
+        <profile id="6a79-6093-ef7f-595c" name="Captured Thralls" page="0" hidden="false" typeId="e1beaa44-e54d-dd6b-d1f2-446b333c9bb9" typeName="Model">
+          <characteristics>
+            <characteristic name="M" typeId="2a0bcc4c-8266-418f-13d6-a6b44def5e92">4</characteristic>
+            <characteristic name="WS" typeId="d5aca8ba-0204-b324-b976-c2b536e09924">3</characteristic>
+            <characteristic name="BS" typeId="5b4d181b-23ae-5ed7-9262-c1d2f79246a8">3</characteristic>
+            <characteristic name="S" typeId="7f1f0a4d-68dc-b0df-5703-c4d0d91a93b9">3</characteristic>
+            <characteristic name="T" typeId="54f4796b-dedb-c296-8b1a-ff7f8043293a">3</characteristic>
+            <characteristic name="W" typeId="3172c8dc-ebe4-0c40-72ab-8fd0076b9442">1</characteristic>
+            <characteristic name="I" typeId="a6fd52b0-be0a-655e-6314-87b392c9c90e">3</characteristic>
+            <characteristic name="A" typeId="bf393c37-9d10-fc85-c147-62b1c01a89fe">1</characteristic>
+            <characteristic name="LD" typeId="e234eaea-a02a-2fb7-3e1f-605392aabb89">5</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule id="9504-024a-757e-52a5" name="Extra servitors, worthless, but still precious" hidden="false">
+          <description>Captured Thralls do not count toward the maximum number of models allowed in your warband, effectively increasing the maximum capacity from 13 to 18. You cannot dismiss any Captured Thrall you own.</description>
+        </rule>
+        <rule id="116e-3a54-674c-5f38" name="Not really clever" hidden="false">
+          <description>Captured Thralls cannot earn experience points, and therefore cannot gain any advancement.</description>
+        </rule>
+        <rule id="6eae-6a78-4e03-5317" name="Recruitment note" hidden="false">
+          <description>Only added after the post-battle Throne of Worms result. New Recruit cannot enforce that acquisition path in this draft; the 0 GC cost is retained so the model can be recorded.</description>
+        </rule>
+      </rules>
+      <categoryLinks>
+        <categoryLink id="c405-7c4e-4ad9-55d5" name="Henchmen" hidden="false" targetId="f9b08d8e-4922-78d5-78ad-2047bff52dc8" primary="true" />
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="fd5b-963e-d363-59ff" name="Equipment List" page="0" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint id="cc1e-70db-3402-573d" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+          </constraints>
+          <costs>
+            <cost name=" gc" typeId="points" value="0" />
+            <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+            <cost name="Rarity" typeId="rarity" value="0" />
+          </costs>
+          <selectionEntryGroups>
+            <selectionEntryGroup id="eb7b-7e9d-6e85-5fca" name="Hand-to-hand Weapons" hidden="false" sortIndex="1" collapsible="true">
+              <entryLinks>
+                <entryLink id="c48f-edee-d771-5f57" name="Free Dagger (1st)" hidden="false" collective="false" import="true" targetId="0d0b-ed37-d8b0-4cbf" type="selectionEntry">
+                  <constraints>
+                    <constraint id="e670-da4b-d193-586e" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="1afc-1086-7e73-562f" name="Dagger" hidden="false" collective="false" import="true" targetId="64e0-0bb6-542b-4beb" type="selectionEntry" />
+                <entryLink id="8a81-4290-80a1-5965" name="Mace" hidden="false" collective="false" import="true" targetId="2cbb-013b-3ebf-0459" type="selectionEntry" />
+                <entryLink id="c98b-c0d7-ef89-5b50" name="Hammer" hidden="false" collective="false" import="true" targetId="cfcc-39fd-aeb4-876a" type="selectionEntry" />
+                <entryLink id="784c-cdd2-7f6f-52b2" name="Axe" hidden="false" collective="false" import="true" targetId="5d01-06b9-3a86-73c9" type="selectionEntry" />
+                <entryLink id="059f-d87f-b8f3-52d4" name="Sword" hidden="false" collective="false" import="true" targetId="34fd-d6a3-50ee-ee06" type="selectionEntry" />
+                <entryLink id="32d4-15ee-3351-56ec" name="Spear" hidden="false" collective="false" import="true" targetId="005e-e397-8108-f198" type="selectionEntry" />
+                <entryLink id="80aa-be25-60ee-52a1" name="Double-Handed Weapon" hidden="false" collective="false" import="true" targetId="a0a1-b311-e3aa-6c3b" type="selectionEntry" />
+              </entryLinks>
+              <constraints>
+                <constraint id="a982-4def-96db-52fe" type="max" field="selections" scope="parent" value="2" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+              </constraints>
+              <modifiers>
+                <modifier type="set" value="3" field="a982-4def-96db-52fe">
+                  <conditions>
+                    <condition type="equalTo" value="1" field="selections" scope="parent" childId="c48f-edee-d771-5f57" shared="true" percentValue="false" includeChildSelections="false" includeChildForces="false" />
+                  </conditions>
+                </modifier>
+              </modifiers>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="e9e9-41ba-7350-5b29" name="Missile Weapons" hidden="false" sortIndex="2" collapsible="true">
+              <entryLinks>
+                <entryLink id="092c-67b0-d980-55fa" name="Short Bow" hidden="false" collective="false" import="true" targetId="3706-6421-53b4-940d" type="selectionEntry">
+                  <constraints>
+                    <constraint id="9ec8-7a23-de59-5bab" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="de9f-4006-7746-54ef" name="Bow" hidden="false" collective="false" import="true" targetId="311a-bf3f-67ff-46e7" type="selectionEntry">
+                  <constraints>
+                    <constraint id="e555-8644-4a3e-5c26" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="f11e-b3f7-5a94-5855" name="Crossbow" hidden="false" collective="false" import="true" targetId="38cc-bc0b-7f19-8039" type="selectionEntry">
+                  <constraints>
+                    <constraint id="f196-b12f-f571-5b13" type="max" field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                    <constraint id="faa9-71e1-7e39-5ef0" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+              </entryLinks>
+              <constraints>
+                <constraint id="6b39-6a9c-c6c1-5abc" type="max" field="selections" scope="parent" value="2" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+              </constraints>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="d06c-1868-826e-5e12" name="Armour" hidden="false" sortIndex="3" collapsible="true">
+              <entryLinks>
+                <entryLink id="bffc-8245-380a-5382" name="Light Armour" hidden="false" collective="false" import="true" targetId="3d2a-426a-c350-2a03" type="selectionEntry">
+                  <constraints>
+                    <constraint id="8a7e-4aa0-fa51-5663" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="a747-ed8f-349a-5745" name="Shield" hidden="false" collective="false" import="true" targetId="74fb-cc90-1361-df26" type="selectionEntry">
+                  <constraints>
+                    <constraint id="ea7e-40f9-9129-57a7" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+                <entryLink id="2bd6-fd44-5a9c-5385" name="Helmet" hidden="false" collective="false" import="true" targetId="d0e5-ca89-5f0d-f5d2" type="selectionEntry">
+                  <constraints>
+                    <constraint id="2ee4-45e9-3a1f-5714" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+                  </constraints>
+                </entryLink>
+              </entryLinks>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+        <selectionEntry id="aef4-8569-3c80-53cc" name="Captured Thrall" page="0" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint id="2935-6b47-52ff-52df" type="min" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+            <constraint id="f9c3-490b-0073-50ae" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+            <constraint id="8b7e-74a1-21b8-5336" type="max" field="selections" scope="roster" value="5" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+          </constraints>
+          <costs>
+            <cost name=" gc" typeId="points" value="0" />
+            <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+            <cost name="Rarity" typeId="rarity" value="0" />
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntry>
+    <selectionEntry id="3da8-d4f2-33df-59c4" name="Great Bear" page="0" hidden="false" collective="false" import="true" type="unit">
+      <profiles>
+        <profile id="66c4-9c2d-5be8-5ce4" name="Great Bears" page="0" hidden="false" typeId="e1beaa44-e54d-dd6b-d1f2-446b333c9bb9" typeName="Model">
+          <characteristics>
+            <characteristic name="M" typeId="2a0bcc4c-8266-418f-13d6-a6b44def5e92">5</characteristic>
+            <characteristic name="WS" typeId="d5aca8ba-0204-b324-b976-c2b536e09924">3</characteristic>
+            <characteristic name="BS" typeId="5b4d181b-23ae-5ed7-9262-c1d2f79246a8">0</characteristic>
+            <characteristic name="S" typeId="7f1f0a4d-68dc-b0df-5703-c4d0d91a93b9">5</characteristic>
+            <characteristic name="T" typeId="54f4796b-dedb-c296-8b1a-ff7f8043293a">5</characteristic>
+            <characteristic name="W" typeId="3172c8dc-ebe4-0c40-72ab-8fd0076b9442">2</characteristic>
+            <characteristic name="I" typeId="a6fd52b0-be0a-655e-6314-87b392c9c90e">3</characteristic>
+            <characteristic name="A" typeId="bf393c37-9d10-fc85-c147-62b1c01a89fe">2</characteristic>
+            <characteristic name="LD" typeId="e234eaea-a02a-2fb7-3e1f-605392aabb89">6</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule id="1f7f-24ae-a531-50ec" name="Maddened With Pain" hidden="false">
+          <description>As soon as the Great Bear suffers a single wound it gains an additional attack.</description>
+        </rule>
+        <rule id="8c46-1490-9f51-54e4" name="Large Target" hidden="false">
+          <description>Great Bears are Large Targets as defined in the shooting rules.</description>
+        </rule>
+        <rule id="0f0a-e2ae-e7ae-55c0" name="Animal" hidden="false">
+          <description>Great Bears are animals and thus do not gain experience.</description>
+        </rule>
+        <rule id="7676-33fe-038d-5873" name="Equipment note" hidden="false">
+          <description>Great Bears never use weapons and armour, and do not need them to fight effectively.</description>
+        </rule>
+      </rules>
+      <categoryLinks>
+        <categoryLink id="4598-9862-d728-55f3" name="Henchmen" hidden="false" targetId="f9b08d8e-4922-78d5-78ad-2047bff52dc8" primary="true" />
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="5336-37a7-bcf3-5ede" name="Great Bear" page="0" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint id="b949-2a12-dc6a-5274" type="min" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+            <constraint id="93fd-eb97-2724-54ed" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+            <constraint id="337a-b750-7055-553f" type="max" field="selections" scope="roster" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+          </constraints>
+          <costs>
+            <cost name=" gc" typeId="points" value="140" />
+            <cost name=" Warband Rating" typeId="wb-rating" value="5" />
+            <cost name="Rarity" typeId="rarity" value="0" />
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntry>
+    <selectionEntry id="7b39-deb1-a1e8-507c" name="Wild Beast" page="0" hidden="false" collective="false" import="true" type="unit">
+      <profiles>
+        <profile id="d13c-832d-d80d-59d4" name="Wild Beasts" page="0" hidden="false" typeId="e1beaa44-e54d-dd6b-d1f2-446b333c9bb9" typeName="Model">
+          <characteristics>
+            <characteristic name="M" typeId="2a0bcc4c-8266-418f-13d6-a6b44def5e92">6</characteristic>
+            <characteristic name="WS" typeId="d5aca8ba-0204-b324-b976-c2b536e09924">3</characteristic>
+            <characteristic name="BS" typeId="5b4d181b-23ae-5ed7-9262-c1d2f79246a8">0</characteristic>
+            <characteristic name="S" typeId="7f1f0a4d-68dc-b0df-5703-c4d0d91a93b9">4</characteristic>
+            <characteristic name="T" typeId="54f4796b-dedb-c296-8b1a-ff7f8043293a">4</characteristic>
+            <characteristic name="W" typeId="3172c8dc-ebe4-0c40-72ab-8fd0076b9442">1</characteristic>
+            <characteristic name="I" typeId="a6fd52b0-be0a-655e-6314-87b392c9c90e">5</characteristic>
+            <characteristic name="A" typeId="bf393c37-9d10-fc85-c147-62b1c01a89fe">2</characteristic>
+            <characteristic name="LD" typeId="e234eaea-a02a-2fb7-3e1f-605392aabb89">5</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule id="440c-1bd2-1ada-5b5e" name="Charge" hidden="false">
+          <description>When charging their enemies the Wild Beasts gain +1 Attack on the first turn of close combat.</description>
+        </rule>
+        <rule id="3028-f26d-c4d3-59dc" name="Animal" hidden="false">
+          <description>Wild Beasts are animals and thus do not gain experience.</description>
+        </rule>
+        <rule id="323d-8e24-d55b-5938" name="Equipment note" hidden="false">
+          <description>Wild Beasts never use weapons and armour, and do not need them to fight effectively.</description>
+        </rule>
+      </rules>
+      <categoryLinks>
+        <categoryLink id="83f7-0b42-b4bc-55d3" name="Henchmen" hidden="false" targetId="f9b08d8e-4922-78d5-78ad-2047bff52dc8" primary="true" />
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="6ec0-a36a-d8e7-5498" name="Wild Beast" page="0" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint id="4f3e-50f3-4744-58da" type="min" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+            <constraint id="cf3c-62ee-084c-5b30" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+            <constraint id="d944-951f-995b-5844" type="max" field="selections" scope="roster" value="2" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+          </constraints>
+          <costs>
+            <cost name=" gc" typeId="points" value="45" />
+            <cost name=" Warband Rating" typeId="wb-rating" value="5" />
+            <cost name="Rarity" typeId="rarity" value="0" />
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntry>
+    <selectionEntry id="0a75-cf62-5310-5cbc" name="Fighting Ape" page="0" hidden="false" collective="false" import="true" type="unit">
+      <profiles>
+        <profile id="9131-2546-04d5-5f1f" name="Fighting Apes" page="0" hidden="false" typeId="e1beaa44-e54d-dd6b-d1f2-446b333c9bb9" typeName="Model">
+          <characteristics>
+            <characteristic name="M" typeId="2a0bcc4c-8266-418f-13d6-a6b44def5e92">6</characteristic>
+            <characteristic name="WS" typeId="d5aca8ba-0204-b324-b976-c2b536e09924">3</characteristic>
+            <characteristic name="BS" typeId="5b4d181b-23ae-5ed7-9262-c1d2f79246a8">0</characteristic>
+            <characteristic name="S" typeId="7f1f0a4d-68dc-b0df-5703-c4d0d91a93b9">4</characteristic>
+            <characteristic name="T" typeId="54f4796b-dedb-c296-8b1a-ff7f8043293a">4</characteristic>
+            <characteristic name="W" typeId="3172c8dc-ebe4-0c40-72ab-8fd0076b9442">1</characteristic>
+            <characteristic name="I" typeId="a6fd52b0-be0a-655e-6314-87b392c9c90e">5</characteristic>
+            <characteristic name="A" typeId="bf393c37-9d10-fc85-c147-62b1c01a89fe">2</characteristic>
+            <characteristic name="LD" typeId="e234eaea-a02a-2fb7-3e1f-605392aabb89">5</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule id="f7a5-5ec9-2886-5f1b" name="Cymbals" hidden="false">
+          <description>when hiring a Fighting Ape, you may give her a pair of cymbals at 15 gc, which it frenziedly beats together to the forbidding tune of Danse Macabre. Any enemy model within 6" will be so disturbed by the sound that they suffer a penalty of -1 to BS and Ld.</description>
+        </rule>
+        <rule id="927b-d42e-32de-5a8a" name="Agile" hidden="false">
+          <description>The Fighting Apes are fantastically agile and nimble, putting even the greatest acrobat or Skaven Assassin to shame. The Fighting Ape has the Scale Sheer Surfaces Skill, Acrobat Skill, and Dodge Skill. In addition, the Fighting Ape can make a diving charge from up to 10" high.</description>
+        </rule>
+        <rule id="ec92-8a4d-d6ca-59d3" name="Animal" hidden="false">
+          <description>Fighitng Apes are animals and thus do not gain experience, but can still climb and enter buildings as normal.</description>
+        </rule>
+        <rule id="7c1e-347c-3c02-5f6e" name="Equipment note" hidden="false">
+          <description>A Fighting Ape never uses weapons and armor and does not need them to fight effectively.</description>
+        </rule>
+      </rules>
+      <categoryLinks>
+        <categoryLink id="3e7c-1e4c-e939-5dc5" name="Henchmen" hidden="false" targetId="f9b08d8e-4922-78d5-78ad-2047bff52dc8" primary="true" />
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="1f43-5812-72bd-571b" name="Cymbals" page="0" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint id="5c7c-d128-0c82-5ea9" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+          </constraints>
+          <rules>
+            <rule id="036b-f851-405d-57ae" name="Cymbals" hidden="false">
+              <description>Optional when hiring, 15 GC. Enemy models within 6 inches suffer -1 BS and -1 Leadership.</description>
+            </rule>
+          </rules>
+          <costs>
+            <cost name=" gc" typeId="points" value="15" />
+            <cost name=" Warband Rating" typeId="wb-rating" value="0" />
+            <cost name="Rarity" typeId="rarity" value="0" />
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="2627-d655-3827-5cf2" name="Fighting Ape" page="0" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint id="cfee-3941-e5b8-5905" type="min" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+            <constraint id="fd9f-b61d-805e-551e" type="max" field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+            <constraint id="e365-fcff-d0e8-5dbb" type="max" field="selections" scope="roster" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" />
+          </constraints>
+          <costs>
+            <cost name=" gc" typeId="points" value="95" />
+            <cost name=" Warband Rating" typeId="wb-rating" value="5" />
+            <cost name="Rarity" typeId="rarity" value="0" />
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntry>
+  </selectionEntries>
+  <rules>
+    <rule id="0479-f190-726a-56a7" name="Foolish Nobleness" hidden="false">
+      <description>Even if all non-animal member of the warband are Human, the distorted and perverted power of the dark gods bent the morale and psyche of these men beyond any imaginable level, even for the most tolerant of mercenary. For this reason, the Cursed Cavalcade is treated as an Evil warband, and, similarly to the Cult of the Possessed, for all game effects purpose (such as, for example, for the effect 333 - Prisoners, on the exploration chart). They cannot hire any Hired Sword or Dramatis Personae, other than the Crow Master and anyone that specifically says otherwise.</description>
+    </rule>
+    <rule id="7095-b3ad-ed85-5b3f" name="Capture!" hidden="false">
+      <description>If a Hero takes Out of Action an enemy human Henchmen model with a Misericordia, and you have less than 5 Captured Thrall in you warband, roll a die: on a 5+ the model is captured. Enemy Heroes can only be Captured as a result of a roll of “61 - Captured!” on the Serious Injuries Table. It’s not possible to Capture more than 2 model per game. If you already captured 2 henchmen, or already have 5 Captured Thrall in your warband, reroll any result of “61- Captured!” for the heroes.</description>
+    </rule>
+    <rule id="ee43-146f-66b5-5d1f" name="The Throne of Worms" hidden="false">
+      <description>The most horrible end for an enemy of the Cavalcade is not death but capture! Captured models are brought down to the Throne of Worms and abandoned to the judgment of this abomination. Only a few survive this madness but they emerge lost forever!
+
+For each enemy captured, instead of rolling on the Serious Injury Table after the battle, roll 1d6:
+
+1-2 The warrior is swallowed up forever by the Throne of Worms. Remove the warrior from the original warband’s roster.
+3-5 The warrior completely loses his mind and is submitted to the power of the Throne. Remove the warrior from the original warband’s roster and You gain a Captured Thrall for your warband.
+6 The warrior is sacrificed with a ritual to the Throne. Remove the warrior from the original warband’s roster and a random Hero in your warband gains 1 XP.
+
+Note: this replaces the Captured! standard rules on the Serious Injuries Table for Heroes.</description>
+    </rule>
+    <rule id="c9bc-e607-63aa-54bf" name="Warband Creation" hidden="false">
+      <description>The warband must start with at least 3 models. At initial creation it has 500 GC to recruit and equip its warriors and may not initially exceed 13 warriors. This is an initial-creation rule; it is recorded as text and not enforced as a permanent campaign limit.</description>
+    </rule>
+    <rule id="659e-5042-ef72-5fed" name="Warband Lore" hidden="false">
+      <description>As recounted by Bertha Bestraufrung, the High Matriarch of the Sisters of Sigmar.
+
+The Doom of Mordheim
+
+As the Imperial Calendar approached year 2000, a terrible civil war tore the realm of Sigmar as never before. The three claimants for the imperial throne vied for power and influence in order to claim the crown of the Emperors for themselves as the land of Sigmar suffered.
+
+But in the ancient palace of Mordheim, count Steinhardt, the Elector of Ostermark, had slowly come to realize that despite his own noble lineage and the Runefang he proudly wielded, and the greatness of his provincial capital Mordheim, he nor his heirs would ever sit on the throne of Sigmar. He had sought a blessing from the Grand Theogonist to lay claim to the throne. But the High Priest of Sigmar had turned him away dismissively: the crown would go to Reikland as far as the leader of the Church of Sigmar was concerned. No little rural province would ever gain it. Regardless of the wealth and splendor of Mordheim, the count could not raise an army to match even the smallest forces of Middenheim or Marienburg. Dark mood overtook the ruler of Ostermark, once judged to be the best and noblest of all the Electors of the Empire.
+
+As time passed neither song or wine nor exotic drugs from far-off lands of Araby could lift Stenhardt’s mood any longer. From melancholy he slowly descended into hate and from hate into torpor from which he rarely stirred. Soon his court fell into disrepute as he no longer tolerated anyone but flatterers and toadies in his presence. Elves of the Forest of Shadows, long-time allies of Ostermark, no longer visited his court. Since time immemorial the High Matriarch of Sigmar’s Rock had been the confessor and the closest advisor of the Elector Count of Ostermark. Now the count started to ignore the wise words of High Matriarch Cassandra, despite her well-earned reputation of prophetic powers. The revered blind Matriarch, an Augur since her youth, remained loyal to the count and Ostermark, but Steinhardt set her aside in his court, relegating her to purely ceremonial duties.
+
+Years passed and Ostermark’s affairs were neglected and fell into ruin and decay. But then one night a man wearing a cloak red as blood, his face hidden by a hood, appeared at the Mordheim palace gates, requesting an audience with the count in order to lift him from his malaise. The protestations of the High Matriarch Cassandra of the Sigmar’s Rock fell on deaf ears when she demanded the Man in Red to remove his hood. For to surprise of many, the count did not turn the man away as he had done to all the priests, sages and doctors that had come before, but invited him to his private chambers instead, and dismissed his bodyguards. There the Man in Red produced a sliver flute from his robes and played a haunting, otherworldly tune for the count for what seemed like an eternity. Somehow, it roused the Elector from his torpor, and he returned to his duties as the ruler of the Province invigorated but changed.
+
+From that day on, Ostermark had a new power that stood behind the throne. The Man in Red whispered into Count’s ear of a great power that could be achieved, enough might to humble the arrogant rulers of Reikland, Middenheim and Marienburg. Power aplenty to ascend to the throne of the Empire itself. With proper rites and incantations, a shard of the dark moon Morrslieb could be coerced into descend down to earth, and with it would come wondrous holy power to bend any man to the will of the one who summoned the comet. Beguiled by the soft voice of his new advisor and the mystical sound of the silver flute, the Count set the plan in motion. As instructed by the Man in Red, the count built vast goals deep beneath his palace, and a black slab to stand in the middle of the greatest catacomb opposite of his throne, their intended purpose unknown to the stonemasons who labored under the instructions of the Man in Red. The count commissioned great many masks, ostensibly for his private masked balls, but they were made of metal and forged to withstand any heat or cut of a sword. He gathered a great store of weapons to the catacombs, and one by one he introduced the most ruthless and ambitious of his nobles into his inner circle to carry out the rites required by the Man in Red.
+
+Soon after street urchins of Mordheim begun to disappear from the back alleys during dark of the night. Citizens whispered of groups of richly-dressed masked men prowling the streets. The servants of the Elector Count gossiped how their master would gather his most loyal nobles into secret meetings deep beneath the palace. Muffled cries could be heard coming from beneath the ground on the nights when the dark moon Morrslieb was full. But such rumors were soon culled as the servants of the palace either disappeared, or started to wear red cloaks and hoods, marking them as loyal to the Man in Red.
+
+Then one night the prophetic powers of Cassandra woke her from her bed in the Count’s palace where she had been tending to the spiritual needs of the few remaining inhabitants of the palace who still prayed to Sigmar. She had seen a true vision, and knew that all those nobles who still followed the patron god of the Empire now lay dead, assassinated in their beds, and that she was to be the final victim, tied to a stone slab in the catacombs deep beneath the count’s palace. She escaped through the night with the masked killers of the count in hot pursuit. She only barely made it to Sigmar’s Rock with the poisoned bolt lodged in her back. With her dying breath she summoned sister Bertha Bestraufung, and made her the new High Matriarch and the abbedissa of Sigmar’s Rock. From her robes Cassandra revealed a blade she had taken as she fled from the palace: She entrusted Bertha with the Runefang, one of the twelve blades of Sigmar (for the count no longer could stand to touch it), and told the new High Matriarch of the vision she had seen in his sleep of the coming destruction of Mordheim before she perished. So under the orders of the newly appointed abbedissa, the great gates of Sigmar’s Rock were closed and barred. Despite the demands of the servant’s count who accused the Sisters of stealing the holy Runefang, the impenetrable gates remained locked, as the Sisters set themselves apart from the corruption that spread throughout Mordheim as the common people started to imitate the unhealthy lifestyles of their rulers. Vice of every kind took root in Mordheim, and soon the city descended into state of unnatural, vicious frenzy.
+
+Within weeks the situation took a turn to worse when the twin-tailed comet appeared in the night sky high above Mordheim. As the tale of this wondrous sign spread throughout the Empire, the population of city swells as people came from far and wide to witness the miracle of the twin-tailed comet. The great ritual of the Man in Red was to be soon completed, and the pace of disappearance of people from the streets of Mordheim increased.
+
+Then came the fateful night when the comet fell upon the city. After ascending to the balcony of his highest tower as the Man in Red had suggested, Count Steinhardt realized his folly at last –but it was all too late: instead of power to rule the world, the comet had come to bring the wrath of Sigmar on Earth. The count and almost all of the people of his city perished screaming in flames, as the fiery comet plummeted down to earth with unimaginable power and shattered into millions of pieces.
+
+And yet all did not go to the plan of the Man in Red. Thanks to the ceaseless prayers of the Sisters of Sigmar, a handful of men and women survived the coming of the comet. Thus the Great Sacrifice had not been completed: Instead of staying whole as the Man in Red had intended, the meteor shattered into untold number of pieces, and the dark shadow riding on the comet across the gulf of space that the Augurs of the Sisterhood had seen in their dreams was now trapped inside the crater left by the comet: without nourishing magic crystals the entity that was powerless to travel across the land of men.
+
+So in the catacombs below count’s palace, the corrupt nobles and their servants gathered around the empty throne, where Man in Red sat, smoldering in rage, for his plan had failed: he had hoped to control the entity and the power of comet. Instead, the man across the Empire he had planned to use as his invincible army lay dead: the magical comet was shattered, the creature of great power he had planned to command was unshackled, and had begun to draw servants of his own. No doubt the great powers across the Old World would soon gather here to vie for the shards of the wyrdstone.
+
+Then the Man in Red grasped his flute and played a harrowing, terrible tune, his sibilant voice bending the great men of Mordheim and their entourage to his will. If the comet’s shards could be collected, the nobles of Mordheim could still grasp victory from the jaws of defeat and utter ruin. With enough magical stones the Man in Red could still command the fell creature that came with the comet and lead the nobles in the conquest of the Empire. Caught between the sorcerous tune of the flute and the reality that they could never again escape the attention of the Witch Hunters, the nobles donned their masks and gathered their few remaining corrupt servants, armed themselves and headed out to the ruins in small groups.
+
+So now from underneath the catacombs the masked bands of nobles venture out, under the bidding of the magical flute of the Man in Red which can be heard eerily playing in the air where-ever they appear. They hunt the dark ruined streets of Mordheim, killing all those in their path, and tirelessly collect the shards of magical stone, taking it back to the vast underground throne room where the Man in Red sits on the throne of the count of Ostermark, as the wyrdstone shard plies grow around him, glowing sickly in the darkness.
+
+The Cavalcade
+
+The Warbands that have traveled deep into the twisted heart of Mordheim tell tales of foes that are unlike any other in the City of the Damned. The hushed whispers of those who have lived to tell the tale (and even then often only induced by a stout drink) talk of groups of masked men emerging from the polluted mists of Mordheim: silent, terrible men whose appearance is heralded first by a distant music and laughter, as if a party of the damned was being held near- by. They attack any and all intruders to Mordheim without warning or parley, without asking or giving quarter.
+
+These warbands have earned many nicknames in the settlements around Mordheim: They are called "Masks" and "Faceless" and yet it is their unnerving way of moving and fighting that has led men to call them the Cavalcade.
+
+These masked warbands are somehow beautiful yet eerie sight: they appear to be dressed in bloodstained and tattered finery of the richest nobles of Empire, and many say their decayed garments carry the coat of arms of the house of Ostmark and the personal heraldic device of Elector Count Reinhardt of Mordheim who was taught to have perished in the cataclysm. To hide their visage, they wear incredibly elaborate masks of porcelain, gold and silver, adorned with great headdresses. It is as if they’ve come to a masked ball instead of battle, for these are clothes associated with the depraved revelries and festivals of them that the nobility of Mordheim indulged in the final days before the city perished. Those who have gazed at the eyes of the masked warriors tell that no eyes have looked back at them. Instead, they have seen only darkness. But despite their finery, the weapons and armour of the Cavalcade are of first order, as if looted from the palace of the Count himself and from the surrounding villas of the nobles families.
+
+In stark contrast of the decayed opulence of these men and women are their companions: for with the Cavalcade fights a multitude of exotic animals: great cats from the far-off lands of Araby, enormous snarling bears whose movements seem to mimic ponderous steps of a dance, fierce falcons and other birds of prey that hunt from the skies, wild boars with tusks glided with gold, and even great black apes with white teeth red tongues with strength and speed unmatched by humans. Many beasts are said to bear the brand of the famed menagerie of Ostmark, for the Count Steinhardt was said to have been fond of matching a man against a beast for the cruel amusement of his highborn guests. Be as it may, both the men and beasts of Cavalcade fall upon the intruders with unreasoning cold fury, yet working in concert as if they could read each other’s minds. And as the Cavalcade engages in battle, all around them the haunting tune of distant revelries grows ever louder as the Warband battles their enemies.
+
+Mercenaries describe how it din makes them lose their concentration, as if they were fighting in a thick fog. Witch Hunters curse the sound as sorcery, as it seems to hold an irresistible lure to even their most faithful War Hounds. All agree that the longer the engagement lasts, the worse toll the sound takes from the enemies of the Cavalcade.
+
+None can say what truth lies behind the masks as the Cavalcade spares no effort to recover the bodies of their fallen warriors, and even when they have to abandon the field, a multitude of beasts of Mordheim swiftly emerge from shadows to consume those of the Cavalcade that have fallen, taking the secrets of these men into abyss with, as if the city itself had swallowed them. But what the men who face the Cavalcade fear the most is that instead of giving their defeated opponents the swift mercy of death, the masked warriors always drag their unconscious and wounded enemies with them to the inner city. Most are lost forever, while one or two have returned, their faces twisted into permanent grimace that is neither horror nor joy, their mind lost to them, their lives ruined as they claw their own flesh until their skin lies in tatters.
+
+And even worse, now and then men swear that they’ve recognized a tabard or shield emblem or recalled a familiar gait in one of the masked men they battle when they’ve had the misfortune to run into the Cavalcade in the dark heart of Mordheim.</description>
+    </rule>
+    <rule id="058c-9856-e4cb-5c04" name="Source and Provenance" hidden="false">
+      <description>Grade 1c. Source/author: Tuomas Pirinen. Source document: https://broheim.net/downloads/warbands/experimental/The%20Cursed%20Cavalcade.pdf. The Rules were written by Tuomas Pirinen many years ago and have been completed by him for the unofficial Mordheim world tournament 2025 with the help of the Morhdeim Italia facebook group team.</description>
+    </rule>
+  </rules>
+  <catalogueLinks>
+    <catalogueLink id="72ac-8cf2-5b25-5180" name="data" targetId="e020-c282-277b-b173" type="catalogue" importRootEntries="true" />
+  </catalogueLinks>
+</catalogue>
